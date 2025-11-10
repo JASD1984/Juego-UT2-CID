@@ -1,0 +1,2089 @@
+Identiﬁcación electrónica.
+En un mundo cada vez más interconectado, la identiﬁcación electrónica se ha
+convertido en un pilar fundamental para garantizar la seguridad, la autenticidad y
+la conﬁanza en los entornos digitales. Este módulo tiene como objetivo introducir
+los conceptos clave relacionados con la identiﬁcación electrónica, sus usos,
+beneﬁcios y desafíos. A través del estudio de sistemas como el DNI electrónico, las
+credenciales digitales y los métodos de autenticación, se analizará cómo estas
+herramientas permiten validar la identidad de las personas de forma segura en
+servicios públicos y privados.
+Comprender el funcionamiento y la relevancia de la identiﬁcación electrónica es esencial no
+solo para acceder a trámites digitales, sino también para proteger nuestra identidad digital,
+prevenir fraudes y participar activamente en la sociedad digital. A lo largo de este módulo, el
+estudiante desarrollará las competencias necesarias para manejar de forma segura y
+responsable su identiﬁcación electrónica en distintos contextos.
+Freepik. Identidad-digital (CC BY-NC-SA)31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 1/98
+1.- Huella digtal
+¿Qué es la huella digital?
+La huella digital, en el ámbito digital, se reﬁere al rastro de información y actividades que una
+persona, entidad u organización deja en línea a medida que interactúa y utiliza servicios en la
+web. Esta huella está compuesta por una amplia gama de datos que incluyen registros de
+búsquedas en motores de búsqueda, historiales de navegación, actividad en redes sociales,
+correos electrónicos enviados y recibidos, transacciones en línea, perﬁles en sitios web, y más.
+La huella digital es única para cada individuo y puede ser utilizada para identiﬁcar, rastrear y
+conocer a las personas en línea. A continuación, se explora en detalle qué es la huella digital y
+cómo se forma:
+¿Qué formas compon en la huella digital?
+Cada sitio web visitado, las páginas vistas y el tiempo pasado en línea se registran en el
+historial de navegación de una persona. Los navegadores web almacenan esta
+información, lo que permite a los anunciantes rastrear los intereses y comportamientos
+del usuario.
+Las cookies son pequeños archivos de texto que se almacenan en el navegador y que
+recopilan datos sobre las actividades en línea. Los anunciantes y los sitios web utilizan
+cookies para personalizar la experiencia del usuario y rastrear la actividad.
+Ejemplo práctico:  cuando visitas un sitio de comercio electrónico y añades productos
+a tu carrito de compras. Las cookies registran lo que has seleccionado, permitiéndote
+navegar por otras páginas del sitio sin perder tu selección. Además, cuando vuelves a
+ese sitio más tarde, las cookies recuperan tu carrito de compras anterior. Esto facilita la
+experiencia del usuario y evita que tengas que volver a seleccionar los productos.
+Aunque las cookies son útiles, también pueden plantear cuestiones de privacidad, ya
+que rastrean tu actividad en línea.1. Historial de navegación
+2. Cookies y seguimiento en línea31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 2/98
+ La actividad en las redes sociales, como Facebook, Twitter e Instagram, crea un gran
+componente de la huella digital. Publicaciones, interacciones con otros usuarios y datos
+de perﬁl se almacenan y pueden ser accesibles por otros.
+Los motores de búsqueda registran las consultas realizadas por un usuario. Esto puede
+proporcionar información sobre los intereses, necesidades e inquietudes de una
+persona.
+Correos electrónicos, chats y mensajes en línea dejan registros. Esto incluye el
+contenido de los mensajes, las direcciones de correo electrónico y los contactos.
+Las compras en línea, transacciones bancarias y pagos electrónicos dejan un rastro en
+la huella digital. Esto incluye detalles sobre compras, tarjetas de crédito utilizadas y
+cuentas bancarias.
+Curso_C ID_R ecursos_A ctiv3. Redes sociales
+4. Búsquedas en motores de búsqueda
+5. Comunicación en línea
+6. Actividades ﬁnancieras
+7. Perﬁles en sitios web31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 3/98
+Registrarse en sitios web y crear perﬁles en línea también forma parte de la huella digital.
+Esto puede incluir detalles como nombre, dirección, número de teléfono y preferencias
+personales.
+¿De que se conforma la huella digital?
+La huella digital se forma a medida que una persona interactúa con la tecnología y los servicios
+en línea. Cada acción realizada, ya sea navegar por la web, enviar un correo electrónico, hacer
+una compra en línea o publicar en una red social, contribuye a la acumulación de datos en la
+huella digital de una persona. Esta huella puede ser recopilada y almacenada por diversas
+entidades, como motores de búsqueda, redes sociales, sitios web y empresas de análisis de
+datos.
+¿Cuáles son los usos y preocupaciones de la huella digital?
+La información recopilada a través de la huella digital se utiliza para la publicidad dirigida.
+Los anunciantes pueden mostrar anuncios especíﬁcos según los intereses y
+comportamientos en línea del usuario.
+Ejemplo práctico: cuando buscas información sobre un nuevo teléfono en un motor de
+búsqueda, es posible que veas anuncios relacionados en la parte superior de los
+resultados. Mientras navegas por las redes sociales, los anuncios patrocinados
+aparecen en tu feed, promocionando productos o servicios basados en tus intereses y
+actividad en línea.
+Las empresas utilizan la huella digital para personalizar la experiencia del usuario en
+línea. Esto puede incluir recomendaciones de productos, contenido relacionado y
+ajustes de preferencias.
+Las actividades en línea de una persona también se utilizan para veriﬁcar la identidad y la
+seguridad. Esto se aplica a la autenticación de cuentas y la prevención del fraude.1. Publicidad en línea
+2. Personalización de servicios
+3. Seguridad en línea31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 4/98
+Opción correcta
+La recopilación y el almacenamiento de información en la huella digital plantean
+preocupaciones de privacidad. El robo de identidad y la divulgación no autorizada de
+datos son riesgos asociados.
+Las personas pueden tomar medidas para controlar su huella digital, como conﬁgurar
+preferencias de privacidad, eliminar cookies y utilizar servicios de anonimato en línea.
+Curso_C ID_R ecursos_C ontrol_d e_
+En resumen, la huella digital en el ámbito digital es el rastro de datos y actividades que una
+persona deja en línea a medida que utiliza la tecnología y los servicios en la web. Esta huella es
+única para cada individuo y puede utilizarse para una variedad de ﬁnes, desde publicidad dirigida
+hasta veriﬁcación de identidad y seguridad en línea. Sin embargo, también plantea
+preocupaciones de privacidad y seguridad que deben abordarse de manera adecuada.4. Privacidad y seguridad
+5. Control de la información
+Autoevaluación
+¿Qué compon e la huella digital de una persona?
+A) Historial de navegación 
+B) Listas de compras en línea 
+C) Calendario de eventos personales
+D) Datos meteorológicos31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 5/98
+Incorrecto
+Incorrecto
+Incorrecto
+Solución
+1. Opción correcta
+2. Incorrecto
+3. Incorrecto
+4. Incorrecto
+Incorrecto
+Incorrecto
+Incorrecto
+Opción correcta
+Solución¿Qué son las cookies en el contexto de la huella digital?
+A) Pequeños archivos de audio en línea 
+B) Fotografías personales compartidas en redes sociales
+C) Marcadores en el navegador web 
+ D) Pequeños archivos de texto que almacenan datos de actividad en línea 31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 6/98
+1. Incorrecto
+2. Incorrecto
+3. Incorrecto
+4. Opción correcta
+Incorrecto
+Opción correcta
+Incorrecto
+Incorrecto
+Solución
+1. Incorrecto
+2. Opción correcta
+3. Incorrecto
+4. Incorrecto¿Para qué se utiliza la información recopilada a través de la
+huella digital?
+A) Búsqueda en motores de búsqueda 
+B) Personalización de servicios en línea 
+C) Seguridad en la vida real 
+D) Preparación de recetas de cocina31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 7/98
+2.- Actividades en línea
+¿Qué son las actividades en línea?
+Las actividades en línea en el ámbito digital se reﬁeren a las acciones que las personas,
+empresas u organizaciones realizan a través de Internet y tecnologías de la información.
+Comunicación en línea:
+1. Correo electrónico: El envío y recepción de mensajes
+electrónicos es una de las actividades en línea más comunes.
+Las personas utilizan el correo electrónico para comunicarse de
+manera personal y profesional.
+2. Mensajería instantánea: Aplicaciones como WhatsApp,
+Facebook Messenger y Telegram permiten a los usuarios enviar
+mensajes de texto, voz y multimedia en tiempo real.
+1. Redes sociales: Las redes sociales como Facebook, Twitter e
+Instagram son plataformas para compartir actualizaciones,
+fotos, videos y comunicarse con amigos y seguidores.
+2. Videoconferencias: Las videoconferencias, a través de
+herramientas como Microsoft Teams, Zoom y Skype, permiten
+a las personas reunirse virtualmente y comunicarse cara a cara.
+Entretenimiento en línea:
+1. Transmisión de video: Plataformas como Netﬂix, YouTube y
+Amazon Prime Video ofrecen la transmisión de películas,
+programas de televisión y videos en línea.
+2. Juegos en línea: Los juegos en línea son populares, desde
+juegos casuales en dispositivos móviles hasta juegos
+multijugador masivos en línea (MMO) en consolas y
+computadoras.
+3. Música en línea: Servicios de transmisión de música como
+Spotify y Apple Music permiten a los usuarios escuchar música
+en línea y crear listas de reproducción31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 8/98
+Educación en línea:
+1. Plataformas de aprendizaje en línea: Plataformas como
+ y  ofrecen cursos en línea de universidades
+de todo el mundo, permitiendo el aprendizaje a distancia.
+2. Aulas virtuales: Las aulas virtuales permiten a estudiantes y
+profesores interactuar en línea, especialmente en situaciones de
+educación a distancia. Ejemplos como Microsoft Teams.
+3. Tutoría en línea: Los servicios de tutoría en línea conectan a
+estudiantes con tutores para recibir ayuda en asignaturas
+especíﬁcas.
+Comercio electrónico:
+1. Compras en línea: Las personas realizan compras en línea a
+través de tiendas en línea, como Amazon y eBay, comprando
+productos que van desde ropa hasta electrónicos y alimentos.
+2. Banca en línea: Los bancos en línea permiten a los clientes
+realizar transacciones bancarias, pagar facturas y gestionar sus
+cuentas desde cualquier lugar.
+Colaboración en línea:
+1. Herramientas de colaboración: Aplicaciones como Google
+Docs, Microsoft Teams y Slack permiten a los equipos de
+trabajo colaborar en proyectos, compartir documentos y
+comunicarse en línea.
+2. Correo electrónico y mensajería comercial: Las empresas
+utilizan el correo electrónico y la mensajería empresarial para la
+comunicación interna y externa.
+Coursera
+  edX31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 9/98
+En resumen, las actividades en línea en el ámbito digital son acciones que las personas,
+empresas y organizaciones realizan a través de Internet y tecnologías de la información. Estas
+actividades abarcan una amplia gama de aplicaciones, desde la comunicación y el
+entretenimiento hasta la educación, el comercio electrónico y la colaboración en línea. LaPublicación en línea:
+1. Blogs y sitios web personales: Las personas y las empresas
+crean blogs y sitios web para compartir contenido, noticias y
+opiniones.
+2. Redes de contenido: Plataformas como Medium y WordPress
+permiten a los escritores publicar artículos y llegar a audiencias
+globales.
+Salud y bienestar:
+1. Telemedicina: La telemedicina permite a los pacientes recibir
+atención médica en línea a través de videoconferencias y
+consultas virtuales.
+2. Aplicaciones de salud: Las aplicaciones de seguimiento de
+salud y bienestar permiten a las personas realizar un
+seguimiento de su actividad física, dieta y salud mental en línea.
+Gobierno y servicios públicos:
+1. Servicios gubernamentales en línea: Los gobiernos ofrecen
+servicios en línea, como la presentación de impuestos y la
+obtención de licencias.
+2. Votación en línea: Algunas regiones permiten la votación en
+línea para elecciones y referendos.
+Activismo y participación cívica:
+1. Campañas en línea: Los activistas utilizan las redes sociales y
+campañas en línea para concienciar sobre cuestiones sociales
+y políticas.
+2. Recopilación de ﬁrmas en línea: Las plataformas en línea
+permiten a las personas ﬁrmar peticiones y participar en
+iniciativas cívicas.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 10/98
+Incorrecto
+Opción correcta
+Incorrecto
+Incorrecto
+Solución
+1. Incorrecto
+2. Opción correcta
+3. Incorrecto
+4. Incorrecto y
+creciente conectividad y las herramientas digitales han transformado la forma en que
+interactuamos, aprendemos, trabajamos y nos entretenemos en la era digital.
+Autoevaluación
+¿Qué es una de las actividades en línea más comunes
+relacionada con la comunicación?
+A) Transmisión de vídeo
+B) Correo electrónico
+C) Juegos en línea
+D) Compras en línea
+¿Qué tipo de aplicaciones permiten el envío de mensajes de
+texto, voz y multimedia en tiempo real?
+A) Plataformas de aprendizaje en línea31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 11/98
+Incorrecto
+Incorrecto
+Opción correcta
+Incorrecto
+Solución
+1. Incorrecto
+2. Incorrecto
+3. Opción correcta
+4. Incorrecto
+Opción correcta
+Incorrecto
+IncorrectoB) Tutoría en línea
+C) Mensajería instantánea
+D) Telemedicina
+¿Cuál de las siguientes actividades en línea se realiza en
+plataformas como Netﬂix y Amazon Prime Video?
+A) Transmisión de video
+B) Compras en línea
+C) Videoconferencias
+D) Aulas virtuales31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 12/98
+Incorrecto
+Solución
+1. Opción correcta
+2. Incorrecto
+3. Incorrecto
+4. Incorrecto31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 13/98
+3.- Comunicación en línea
+¿Qué es la comunicación en línea?
+La comunicación en línea en el ámbito digital se reﬁere a la interacción y el intercambio de
+información, mensajes y datos que tienen lugar a través de medios digitales y tecnologías de la
+información. A continuación, se exploran en detalle los elementos y características de la
+comunicación en línea:
+¿Cuáles son los elementos clave de la comunicación en línea?
+Mensajería instantánea 
+ Las aplicaciones de mensajería instantánea, como WhatsApp, Facebook Messenger y
+Telegram, permiten a las personas enviar mensajes de texto, voz, fotos y videos en
+tiempo real a través de dispositivos móviles y computadoras.
+Correo electrónico
+El correo electrónico sigue siendo una forma común de comunicación en línea, tanto en
+entornos personales como profesionales. Permite enviar mensajes de texto y adjuntar
+archivos a destinatarios en todo el mundo.
+Redes sociales
+Las redes sociales, como Facebook, Twitter, Instagram y LinkedIn, proporcionan
+plataformas para que las personas se conecten, compartan contenido, interactúen y se
+mantengan al tanto de noticias y eventos.
+Videoconferencia
+ Las herramientas de videoconferencia, como Zoom, Skype y Google Meet, permiten la
+comunicación cara a cara en tiempo real a través de video y audio, lo que es
+especialmente valioso para reuniones de negocios y conversaciones personales.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 14/98
+Foros y comunidades en línea
+Los foros y las comunidades en línea son lugares donde las personas pueden debatir,
+discutir temas de interés común y compartir conocimientos en torno a un tema
+especíﬁco.
+Blogs y publicaciones en línea
+Los blogs y las publicaciones en línea son una forma de comunicar pensamientos,
+ideas, noticias y opiniones. Los usuarios pueden comentar y participar en la
+conversación.
+Comentarios y retroalimentación
+Las secciones de comentarios en sitios web y plataformas en línea permiten a los
+usuarios dar retroalimentación, hacer preguntas y compartir opiniones.
+Colaboración en línea
+ Las herramientas de colaboración, como Google Docs y Microsoft Teams, permiten a
+grupos de trabajo compartir documentos y colaborar en tiempo real,
+independientemente de su ubicación geográﬁca
+Ejemplo práctico: utilizan herramientas como Google Docs para editar un informe de
+proyecto en tiempo real, lo que les permite colaborar simultáneamente y realizar
+revisiones sin problemas. A través de la colaboración en línea, este equipo puede
+trabajar de manera eﬁciente, aprovechando la ﬂexibilidad que ofrece la tecnología para
+lograr sus objetivos y completar proyectos sin importar su ubicación geográﬁca.
+¿Qué características tiene la comunicación en línea?
+Instantaniedad 
+La comunicación en línea a menudo es instantánea y permite respuestas rápidas. Esto
+facilita la conversación en tiempo real, la toma de decisiones y la solución de problemas.
+Ubicuidad
+ La comunicación en línea elimina las barreras geográﬁcas. Las personas pueden
+comunicarse a nivel mundial, lo que amplía las posibilidades de colaboración y
+conectividad.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 15/98
+Diversidad de medios
+ La comunicación en línea permite el uso de diversos medios, como texto, voz,
+imágenes y video, lo que enriquece la experiencia de comunicación.
+Archivado y documentación 
+La mayoría de las formas de comunicación en línea se pueden archivar y almacenar, lo
+que facilita la recuperación de información y la documentación de conversaciones.
+Interacción multimedia
+Las plataformas de comunicación en línea a menudo admiten una amplia gama de
+contenido multimedia, lo que permite compartir experiencias visuales y auditivas.
+Personalización
+Las preferencias y la privacidad se pueden personalizar en muchas plataformas en línea,
+lo que permite a los usuarios controlar quiénes pueden acceder a su información y
+comunicarse con ellos.
+¿Cuáles son los usos de la comunicación en línea?
+Comunicación personal
+Las personas utilizan la comunicación en línea para mantenerse en contacto con amigos
+y familiares, compartiendo noticias, fotos y mensajes en plataformas de redes sociales y
+servicios de mensajería.
+Comunicación empresarial
+ Las empresas utilizan la comunicación en línea para comunicarse con clientes,
+empleados y socios comerciales. Esto incluye correos electrónicos, videoconferencias,
+redes sociales y herramientas de colaboración.
+Educación en línea
+ La comunicación en línea es fundamental en la educación en línea y la formación a
+distancia. Profesores y estudiantes utilizan plataformas de aprendizaje en línea,
+videoconferencias y chats para interactuar y aprender.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 16/98
+ Verdadero  Falso
+Verdadero
+ Verdadero  FalsoEjemplo práctico: se registra en una plataforma de educación en línea, selecciona un
+curso de aprendizaje de idiomas y obtiene acceso a lecciones interactivas. Puede
+estudiar a su propio ritmo, ver videos instructivos, realizar ejercicios de práctica y
+participar en foros para discutir con otros estudiantes. Además, tiene acceso a recursos
+como aplicaciones móviles y cuestionarios. La educación en línea te brinda la ﬂexibilidad
+de aprender desde cualquier lugar y en cualquier momento, personalizando su
+experiencia de aprendizaje.
+Publicidad y marketing 
+Las empresas utilizan la comunicación en línea para promocionar productos y servicios
+a través de publicidad en línea, redes sociales y correo electrónico.
+Periodismo y medios de comuniación
+Los medios de comunicación utilizan la comunicación en línea para informar sobre
+noticias y eventos. Esto incluye sitios web de noticias, redes sociales y plataformas de
+streaming.
+Colaboración profesional
+Los profesionales utilizan herramientas de comunicación en línea para colaborar en
+proyectos, compartir documentos y mantener reuniones virtuales.
+La comunicación en línea en el ámbito digital ha transformado la forma en que las personas se
+relacionan, trabajan y se mantienen informadas. Proporciona un amplio conjunto de
+herramientas y plataformas que permiten la comunicación eﬁciente y efectiva en un mundo
+interconectado y tecnológicamente avanzado.
+Autoevaluación
+Marca si es verdadero o falso
+La comunicación en línea se reﬁere a la interacción y el intercambio de
+información, mensajes y datos a través de medios digitales y tecnologías de la
+información.
+Los blogs y las publicaciones en línea no son una forma de comunicación en línea.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 17/98
+Falso31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 18/98
+4.- ¿Qué aplicaciones se utilizan para
+compartir recursos?
+¿Qué aplicaciones se utilizan para compartir contenido?
+Hay muchas aplicaciones populares que se utilizan para compartir contenido en línea, ya sea
+texto, imágenes, videos o enlaces. Algunas de las aplicaciones más comunes incluyen:
+1. WhatsApp: Ampliamente utilizado para enviar mensajes de texto, fotos y videos, así como
+para realizar llamadas de voz y video.
+2. YouTube: La principal plataforma de intercambio de videos en la que los usuarios pueden
+cargar y ver contenido.
+3. LinkedIn: Principalmente utilizado para compartir contenido profesional, como
+actualizaciones laborales, artículos y enlaces a recursos profesionales.
+4. Reddit: Un foro en línea donde los usuarios pueden compartir
+enlaces, texto y discutir diversos temas en comunidades llamadas
+"subreddits".
+5. Tumblr: Utilizado para publicar blogs, imágenes, videos y
+contenido multimedia variado.
+6. Medium: Plataforma de blogs que permite a los usuarios compartir artículos y reﬂexiones.
+Estas son solo algunas de las aplicaciones populares para compartir contenido en
+línea, y cada una tiene su enfoque único y su audiencia especíﬁca. La elección de la
+aplicación depende de tus preferencias y del tipo de contenido que deseas
+compartir.
+¿Qué aplicaciones de oﬁmática se utilizan para compartir documentación?
+Existen varias aplicaciones de oﬁmática compartida que permiten a los usuarios colaborar en
+documentos, hojas de cálculo y presentaciones en línea. Algunas de las más populares incluyen:
+Aplicaciones de oﬁmática
+Google
+Workspace
+(anteriormente
+G Suite):Incluye Google Docs para documentos, Google Sheets para hojas de
+cálculo y Google Slides para presentaciones. Permite la colaboración en
+tiempo real y el almacenamiento en la nube.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 19/98
+Microsoft 365
+(anteriormente
+Oﬃce 365):Ofrece Microsoft Word, Excel y PowerPoint en línea, lo que facilita la
+colaboración y el acceso desde cualquier lugar. También incluye
+almacenamiento en la nube a través de OneDrive.
+Zoho Docs:Proporciona una suite de aplicaciones de oﬁmática en línea, que incluye
+procesador de textos, hojas de cálculo y presentaciones, además de
+herramientas de colaboración.
+Apple iWork:iWork de Apple incluye Pages (procesador de textos), Numbers (hojas de
+cálculo) y Keynote (presentaciones). Estas aplicaciones son accesibles
+en línea y en dispositivos Apple.
+OnlyOﬃce:Ofrece herramientas de procesamiento de texto, hojas de cálculo y
+presentaciones en línea, así como la capacidad de alojar su propia
+instancia.
+Quip:Una aplicación de Salesforce que combina documentos, hojas de
+cálculo y chat en tiempo real para facilitar la colaboración en proyectos.
+Etherpad:Una opción de código abierto que permite a múltiples usuarios editar
+documentos en tiempo real y es fácil de integrar en otros servicios.
+Dropbox Paper:Un servicio de creación y colaboración de documentos en línea que se
+integra con Dropbox para el almacenamiento de archivos.
+Coda:Ofrece documentos que combinan elementos de hojas de cálculo y
+aplicaciones, lo que permite una amplia gama de funciones de
+colaboración.
+Notion:Aunque a menudo se asocia con la gestión de proyectos, Notion
+también permite la colaboración en documentos y hojas de cálculo.
+Estas aplicaciones varían en términos de características, integraciones y
+capacidades de colaboración. La elección dependerá de tus necesidades
+especíﬁcas y preferencias de uso.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 20/98
+5.- Identidad, reputación y huella digital.
+¿Qué es la identidad digital?
+La identidad digital se reﬁere a la representación en línea de una persona, entidad o usuario en el
+ámbito digital. Es la construcción de una presencia en Internet que puede estar asociada con un
+individuo, una empresa, una organización u otro ente. La identidad digital es el conjunto de
+información, datos, acciones y contenido que una persona comparte, publica o genera en línea y
+que contribuye a formar una imagen de quiénes son en el espacio digital.
+Aspectos clave de la identidad digital:
+Información personal
+La identidad digital a menudo incluye información personal como nombre, dirección de
+correo electrónico, fecha de nacimiento y otros detalles.
+Perﬁles en línea
+Los perﬁles en redes sociales, sitios web personales, blogs y otros medios en línea
+conforman una parte importante de la identidad digital de una persona. Estos perﬁles
+suelen incluir información sobre intereses, pasatiempos, profesión, educación y más.
+Historial de actividad
+Las acciones en línea, como las publicaciones, comentarios, mensajes, compras en
+línea y búsquedas en motores de búsqueda, forman parte de la identidad digital.
+Reputación y percepción
+La forma en que otros perciben a una persona en línea es un componente crucial de la
+identidad digital. La reputación se basa en la interacción en línea, las opiniones de otros,
+las reseñas y otros factores.
+Privacidad y seguridad
+La gestión adecuada de la privacidad es esencial para proteger la identidad digital y
+prevenir el acceso no autorizado a la información personal.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 21/98
+Autenticidad y variedad
+La autenticidad se reﬁere a la veracidad de la identidad digital. Es importante que la
+información proporcionada en línea sea precisa y conﬁable.
+¿Cómo se compon e la reputación digital?
+La reputación digital es el reﬂejo de la imagen o percepción de una persona, empresa u
+organización en línea. Esta reputación se construye a través de las interacciones y actividades
+en Internet y puede inﬂuir en la forma en que otras personas, clientes, empleadores o socios
+comerciales perciben a una entidad.
+Aspectos clave de la reputación digital:
+Las reseñas, caliﬁcaciones y comentarios en sitios web, redes sociales o plataformas de
+reseñas pueden inﬂuir en la reputación en línea de una persona o empresa.
+El contenido que otros usuarios generan sobre una persona o entidad, como menciones
+en redes sociales, etiquetas, fotos o publicaciones relacionadas, también contribuye a la
+reputación digital.
+La forma en que una persona se comporta en línea, su ética y profesionalismo, juegan
+un papel importante en la construcción de la reputación digital. Las acciones éticas y
+respetuosas suelen contribuir a una buena reputación.Comentarios y opiniones
+Contenido generado por usuario
+Profesionalismo y ética en línea
+Gestión de crisis31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 22/98
+Incorrecto
+Opción correcta
+Incorrecto
+Solución
+1. Incorrecto
+2. Opción correctaLa forma en que una persona o entidad maneja situaciones de crisis en línea puede
+afectar signiﬁcativamente su reputación. La transparencia y la resolución adecuada de
+problemas son fundamentales.
+Mantener una presencia en línea activa y positiva, que incluye contenido relevante y útil,
+puede mejorar la reputación en línea.Presencia en línea posistiva
+Pregunta de Elección Múltiple
+¿Qué es la identidad digital?
+A) Una acumulación de datos personales en línea.
+B) La representación en línea de una persona, entidad o usuario.
+C) La reputación en línea de una entidad.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 23/98
+3. Incorrecto
+Incorrecto
+Incorrecto
+Opción correcta
+Solución
+1. Incorrecto
+2. Incorrecto
+3. Opción correcta
+Incorrecto
+Opción correcta
+Incorrecto¿Qué NO es un aspecto clave de la identidad digital?
+A) Información personal.
+B) Comentarios y opiniones.
+C) Ubicación geográﬁca.
+¿Cómo se compone la reputación digital?
+A) Información personal.
+B) Comentarios y opiniones.
+C) Contenido generado por usuario.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 24/98
+Solución
+1. Incorrecto
+2. Opción correcta
+3. Incorrecto31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 25/98
+6.- Publicaciones y contenidos
+compartidos
+¿Qué son las publicaciones y contenidos compartidos?
+Las publicaciones y contenidos compartidos en el ámbito digital son piezas de información,
+creatividad y comunicación que se difunden a través de Internet y tecnologías digitales. Estas
+publicaciones y contenidos pueden abarcar una amplia variedad de formatos, desde texto,
+imágenes y videos hasta música, documentos, aplicaciones y más.
+¿Qué elementos son clave de las publicaciones y contenidos
+compartidos?
+Texto: Las publicaciones en línea suelen incluir contenido textual, que puede ser en forma de
+artículos, mensajes, publicaciones en redes sociales, correos electrónicos y más. El texto es
+una forma común de transmitir información y expresar ideas.
+Música y audio: La música y el contenido de audio se utilizan en aplicaciones de transmisión
+de música, podcasts, publicidad y contenido multimedia.
+Imágenes: Las imágenes y fotografías son elementos visuales utilizados para ilustrar y
+complementar el contenido. Pueden incluir infografías, memes, gráﬁcos, ilustraciones y más.
+Videos: Los videos son una forma poderosa de comunicar ideas y contar historias.
+Plataformas como YouTube, Vimeo y redes sociales permiten a los usuarios cargar y
+compartir videos.
+Ejemplo práctico: imagine que usted es un estudiante universitario que está aprendiendo
+química orgánica. En lugar de depender únicamente de libros de texto, puede acceder a una
+amplia gama de lecciones en video en plataformas como YouTube. Aquí, profesores expertos
+explican conceptos complejos de una manera visual y fácil de entender. Puede pausar,
+rebobinar y repetir las lecciones según sea necesario para un aprendizaje personalizado.
+Documentos: Documentos digitales, como PDFs, presentaciones y hojas de cálculo, se
+utilizan para compartir información detallada y formateada.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 26/98
+Aplicaciones y software: Las aplicaciones y el software se distribuyen en línea a través de
+tiendas de aplicaciones y sitios web para su descarga y uso en dispositivos digitales.
+Contenido generado por el usuario: Los usuarios a menudo crean contenido personal, como
+blogs, vlogs (video blogs), publicaciones en redes sociales y comentarios en sitios web.
+¿Cuáles son las formas de publicación y compartición?
+Redes sociales
+Las redes sociales permiten a los usuarios publicar actualizaciones, fotos, videos y
+enlaces para compartir con amigos y seguidores.
+Blogs
+Los blogs son plataformas para la creación y publicación de contenido en forma de
+artículos, opiniones y noticias.
+Plataformas de transmisión de video
+YouTube, Twitch y otras plataformas de transmisión de video permiten a los creadores
+cargar y compartir videos en línea.
+Correo electrónico
+Las personas y las empresas utilizan el correo electrónico para enviar newsletters,
+anuncios y contenido a destinatarios.
+Ejemplo práctico: Para mantener a sus clientes informados sobre las últimas
+tendencias, ofertas y promociones, creas una newsletter mensual. Diseña un correo
+electrónico atractivo con imágenes de productos destacados y descripciones
+tentadoras. Luego, envías esta newsletter a tu lista de suscriptores, que incluye a
+clientes habituales y nuevos interesados. Gracias al correo electrónico, puede mantener
+una comunicación constante con tu audiencia, promocionar nuevos productos y ofrecer
+descuentos exclusivos. Los destinatarios pueden hacer clic en los enlaces y comprar
+directamente desde el correo. Esto impulsa las ventas y fortalece las relaciones con los
+clientes.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 27/98
+Sitios web y portales
+Las empresas y organizaciones publican contenido en línea a través de sitios web y
+portales dedicados.
+¿Cuales son los usos de las publicaciones y contenidos compartidos?
+El contenido en línea se utiliza para informar y educar a través de artículos, tutoriales,
+cursos en línea y documentos.
+Las empresas utilizan el contenido en línea para promocionar productos y servicios, a
+través de anuncios, publicaciones en redes sociales, blogs y videos promocionales.
+El contenido en línea ofrece entretenimiento a través de videos virales, juegos en línea,
+música y plataformas de transmisión.Información y educación
+Marketing y promoción
+Entretenimiento31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 28/98
+Los creadores de contenido utilizan blogs, videos, música y arte en línea para expresar
+su creatividad y compartir sus obras con el mundo.
+Los medios de comunicación publican noticias, análisis y reportajes en línea para
+mantener a las audiencias informadas.
+Ejemplo práctico: Imagine que es un lector ávido de noticias. Todos los días, visita
+sitios web de medios de comunicación para mantenerse informado sobre los
+acontecimientos globales. Hoy, al navegar por un sitio de noticias, encuentra un artículo
+de investigación profunda sobre los efectos del cambio climático en los océanos. Lees
+el artículo y descubre datos impactantes respaldados por expertos y gráﬁcos
+informativos. Esta información te brinda una comprensión más profunda de un tema
+crucial y te ayuda a tomar decisiones más informadas en tu vida diaria, como reducir tu
+huella de carbono. Los medios en línea te mantienen informado y empoderado para ser
+un ciudadano más consciente.
+Las personas utilizan redes sociales y aplicaciones de mensajería para comunicarse con
+amigos y familiares.
+El contenido en línea se utiliza como fuente de referencia e investigación, ya sea en el
+ámbito académico, profesional o personal.Expresión y creatividad
+Noticias y periodismo
+Comunicación personal y redes sociales
+Investigación y referencia31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 29/98
+1. Las publicaciones y contenidos compartidos en el ámbito digital son piezas
+de información, creatividad y comunicación que se difunden a través de
+ y tecnologías digitales .
+2. Estas publicaciones y contenidos pueden abarcar una amplia variedad de
+ , desde texto , imágenes y videos hasta música, documentos,
+ y más.
+3. El texto es una forma común de transmitir  y expresar ideas .
+Averiguar la puntuación Mostrar/Eliminar las respuestas
+Ejemplo práctico: Imaginemos que es un estudiante universitario que trabaja en una
+investigación sobre el cambio climático. Utiliza Internet para buscar artículos
+académicos, informes gubernamentales y recursos en línea sobre el tema. Encuentra
+una variedad de fuentes conﬁables que abordan diferentes aspectos del cambio
+climático, desde impactos en la biodiversidad hasta políticas de mitigación. A medida
+que recopila información y citas relevantes, organiza su trabajo de investigación. Esto le
+permite crear un documento sólido respaldado por fuentes veriﬁcadas y ampliar su
+comprensión sobre el cambio climático. El contenido en línea se convierte en una
+herramienta esencial para tu investigación académica.
+Los activistas utilizan el contenido en línea para promover causas y concienciar sobre
+cuestiones sociales, políticas y ambientales.
+En resumen, las publicaciones y contenidos compartidos en el ámbito digital son piezas de
+información, creatividad y comunicación que se difunden a través de Internet y tecnologías
+digitales. Estos contenidos desempeñan un papel esencial en la forma en que las personas se
+comunican, aprenden, se entretienen, promocionan productos y servicios, expresan ideas y se
+conectan con audiencias en todo el mundo. La diversidad de formatos y plataformas disponibles
+en línea permite una amplia gama de usos y aplicaciones.Activismo y concienciación
+Autoevaluación
+Rellena los espacios en blanco31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 30/98
+7.- Evaluación por terceros
+¿Qué es la evaluación por terceros?
+La evaluación por terceros en el ámbito digital se reﬁere a un proceso en el cual una entidad o
+individuo independiente y neutral, que no está directamente involucrado en una operación,
+proyecto, plataforma o actividad en línea, examina y evalúa ciertos aspectos de esta operación
+para proporcionar una perspectiva objetiva y, en algunos casos, una validación de su
+cumplimiento con estándares, regulaciones o normas preestablecidas.
+La evaluación por terceros es fundamental en el mundo digital, donde la conﬁanza y la seguridad
+son esenciales para los usuarios y las partes interesadas. A continuación, se explica en detalle
+qué implica la evaluación por terceros en el ámbito digital y por qué es importante:
+¿Cuáles son los aspectos clave de la evaluación por terceros?
+Independencia
+La entidad de evaluación por terceros debe ser independiente y no tener conﬂictos de
+interés con la operación o actividad que está siendo evaluada. Esto garantiza que la
+evaluación sea imparcial y objetiva.
+Normas y criterios
+La evaluación por terceros se basa en normas, criterios o regulaciones predeﬁnidas. Por
+ejemplo, en el ámbito de la seguridad de la información, puede basarse en normas
+como 
+Alcance
+ISO 27001 o NIST.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 31/98
+El alcance de la evaluación se deﬁne claramente antes de comenzar el proceso. Puede
+abarcar aspectos especíﬁcos, como la seguridad, la privacidad, la calidad del servicio o
+el cumplimiento normativo.
+Proceso de evaluación
+La entidad de evaluación realiza un examen detallado de la operación o actividad en
+cuestión. Esto puede incluir revisión de documentos, entrevistas, pruebas de seguridad,
+auditorías, análisis de datos y más.
+Informe y hallazgos
+Después de completar la evaluación, la entidad de terceros emite un informe que
+resume sus hallazgos y conclusiones. Este informe puede incluir recomendaciones para
+mejorar el desempeño o el cumplimiento.
+¿Qué impor tancia  tiene la evaluación por terceros?
+Conﬁanza del usuario
+La evaluación por terceros proporciona a los usuarios una garantía de
+que una operación o servicio en línea cumple con estándares de
+calidad y seguridad. Esto fomenta la conﬁanza y la adopción.
+Ejemplo práctico: imagine que es un usuario que busca descargar
+una nueva aplicación para su teléfono. Al navegar por la tienda de
+aplicaciones, encuentra dos opciones que hacen lo mismo.
+Cumplimiento normativo31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 32/98
+¿Cuáles pueden ser algunos ejemplos de evaluación por terceros?
+En muchos sectores, como la banca, la atención médica y la
+protección de datos, el cumplimiento normativo es fundamental. La
+evaluación por terceros ayuda a garantizar que una entidad cumple
+con las regulaciones y normativas especíﬁcas.
+Mejora continua
+Los informes de evaluación por terceros a menudo incluyen
+recomendaciones para mejorar procesos y operaciones. Esto
+impulsa la mejora continua y la eﬁciencia.
+Revisión de seguridad
+En un mundo digital en constante evolución, la seguridad es una
+preocupación fundamental. La evaluación por terceros puede ayudar
+a identiﬁcar vulnerabilidades y riesgos de seguridad.
+Validación de calidad
+En el ámbito de la calidad del servicio, la evaluación por terceros
+garantiza que se cumplan los estándares y las expectativas de los
+clientes.
+31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 33/98
+ Verdadero  Falso
+Verdadero
+ Verdadero  Falso
+FalsoMostrar
+—Ejemplos de evaluación por terceros en el ámbito digital:
+En resumen, la evaluación por terceros en el ámbito digital implica que una entidad
+independiente y neutral examine y evalúe aspectos especíﬁcos de una operación o actividad en
+línea para garantizar su calidad, seguridad, cumplimiento normativo y conﬁabilidad. Esto es
+esencial para construir conﬁanza entre usuarios, partes interesadas y reguladores, y para
+garantizar que las operaciones digitales se ajusten a los estándares y regulaciones aplicables.‒Auditorías de seguridad cibernética
+‒Certiﬁcaciones de privacidad
+‒Evaluación de la calidad del sitio web
+‒Certiﬁcaciones de calidad del servicio
+‒Evaluación de cumplimiento normativo
+Autoevaluación
+¿Es verdadero o falso?
+La evaluación por terceros en el ámbito digital implica que una entidad o
+individuo independiente y neutral examina y evalúa aspectos especíﬁcos
+de una operación en línea.
+El alcance de la evaluación se deﬁne después de completar el proceso de
+evaluación.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 34/98
+8.- Privacidad y seguridad
+¿Qué es la privacidad y seguridad?
+La privacidad y la seguridad en el ámbito digital son dos aspectos fundamentales que se reﬁeren
+a la protección de la información personal y la salvaguardia de los activos digitales en un entorno
+en línea. A medida que la tecnología digital y el uso de Internet continúan expandiéndose, la
+importancia de la privacidad y la seguridad en el ámbito digital se vuelve cada vez más crítica.
+Aquí se exploran en detalle estos dos conceptos:
+¿Qué es la privacidad en el ámbito digital?
+La privacidad en el ámbito digital se reﬁere al derecho y la capacidad de las personas para
+controlar su información personal y la exposición de sus actividades en línea. La privacidad
+digital implica que los individuos tengan el control sobre qué datos personales se recopilan,
+cómo se utilizan y quién tiene acceso a ellos. Algunos aspectos clave de la privacidad en el
+ámbito digital son:
+Recopilación de datos personales:
+La privacidad implica que las organizaciones y las plataformas en línea solo recopilen la
+información personal necesaria para el propósito especíﬁco para el que se recopila y que
+obtengan el consentimiento adecuado del usuario.
+Uso de datos
+Las organizaciones deben utilizar los datos personales recopilados de manera justa y
+legal y solo para los ﬁnes para los que se recopilaron.
+Seguridad de datos
+Proteger la información personal de los usuarios contra la pérdida, el robo y el acceso
+no autorizado es fundamental para la privacidad digital.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 35/98
+Transparencia
+Los individuos tienen derecho a saber qué información se recopila y cómo se utilizará.
+Las políticas de privacidad y los avisos de privacidad deben ser claros y accesibles.
+Ejemplo práctico: imagine que está interesado en comprar un producto en línea, como
+un teléfono inteligente. Al explorar el sitio web de una tienda en línea, encuentra dos
+opciones atractivas con descripciones detalladas. La primera tienda proporciona
+información completa sobre las especiﬁcaciones del teléfono, incluyendo la fuente del
+hardware y detalles sobre la garantía. También ofrece opiniones de usuarios veriﬁcadas y
+una política de devolución clara. La segunda tienda, en cambio, carece de información
+detallada y no ofrece ninguna retroalimentación de usuarios. En este caso, te sientes
+más inclinado a comprar en la primera tienda debido a su transparencia en proporcionar
+información clave, lo que te brinda conﬁanza en tu compra en línea. La transparencia en
+el ámbito digital es esencial para establecer la conﬁanza de los consumidores y tomar
+decisiones informadas.
+Derechos de acceso y corrección
+Las personas deben tener la capacidad de acceder y corregir sus datos personales
+almacenados por organizaciones en línea.
+Derecho al olvido
+En algunos lugares, las personas tienen derecho a solicitar la eliminación de sus datos
+personales en línea cuando ya no son necesarios para los ﬁnes para los que se
+recopilaron.
+¿Qué es la seguridad en el ámbito digital?
+La seguridad en el ámbito digital se reﬁere a las medidas y prácticas diseñadas para proteger los
+sistemas, datos y recursos digitales de amenazas y riesgos, como el acceso no autorizado, la
+manipulación de datos y el robo de información. La seguridad digital es esencial para mantener
+la integridad y la conﬁdencialidad de la información en línea. Algunos aspectos clave de la
+seguridad en el ámbito digital son:
+Protección de datos31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 36/98
+Esto incluye el cifrado de datos, la autenticación de usuarios y la implementación de
+medidas de seguridad para proteger la información de usuarios y organizaciones.
+Firewalls y antivirus
+El uso de ﬁrewalls y software antivirus ayuda a proteger los sistemas y redes contra
+amenazas en línea, como malware y ataques cibernéticos.
+Actualizaciones y parches
+Mantener el software y los sistemas actualizados con las últimas correcciones de
+seguridad es fundamental para evitar vulnerabilidades.
+Ejemplo práctico: imagine que tiene un teléfono inteligente y, de repente, recibe una
+notiﬁcación sobre una actualización de sistema. Opta por instalar la actualización, y
+después de completarla, nota mejoras en el rendimiento, nuevas características de
+seguridad y una interfaz más ﬂuida. Esta actualización, similar a los parches en otros
+dispositivos y software, es esencial en el ámbito digital. Proporciona correcciones de
+errores, refuerza la seguridad y mejora la experiencia del usuario. Al mantener sus
+dispositivos y aplicaciones actualizadas, se beneﬁcia de un funcionamiento óptimo y le
+proteges contra vulnerabilidades y amenazas cibernéticas, ilustrando así la importancia
+de las actualizaciones y parches en el entorno digital.
+Gestión de contraseñas
+Utilizar contraseñas seguras y cambiarlas regularmente es esencial para proteger
+cuentas y sistemas.
+Educación y concienciación
+La formación de usuarios y empleados sobre prácticas seguras en línea es importante
+para prevenir amenazas como el phishing y el robo de identidad.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 37/98
+Opción correcta
+Incorrecto
+Incorrecto
+Respuesta a incidentes
+Tener un plan de respuesta a incidentes en caso de violación de seguridad es esencial
+para minimizar el impacto y restaurar la seguridad.
+¿Cuál es la relación entre privacidad y seguridad?
+La privacidad y la seguridad en el ámbito digital están estrechamente relacionadas. La seguridad
+digital es un componente fundamental de la protección de la privacidad, ya que la falta de
+medidas de seguridad adecuadas puede exponer la información personal a riesgos. Además, la
+privacidad se basa en la capacidad de proteger la información personal a través de medidas de
+seguridad, como el cifrado y el control de acceso.
+En resumen, la privacidad y la seguridad en el ámbito digital son esenciales para garantizar que
+las personas tengan control sobre su información personal y que los sistemas y datos digitales
+estén protegidos contra amenazas. La privacidad se reﬁere al control de la información personal,
+mientras que la seguridad se centra en proteger los activos digitales de amenazas y riesgos.
+Ambos conceptos son fundamentales en un entorno en línea cada vez más interconectado.
+Autoevaluación
+¿Qué aspecto de la seguridad en el ámbito digital implica
+proteger los sistemas y recursos digitales de amenazas y
+riesgos? 
+A) Protección de datos.
+B) Actualizaciones y parches.
+C) Derecho al olvido.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 38/98
+Solución
+1. Opción correcta
+2. Incorrecto
+3. Incorrecto
+Incorrecto
+Incorrecto
+Opción correcta
+Solución
+1. Incorrecto
+2. Incorrecto
+3. Opción correcta¿Cuál de las siguientes opciones es una práctica segura para
+proteger la seguridad digital? 
+A) Utilizar contraseñas sencillas y compartirlas con colegas.
+B) Cambiar las contraseñas con poca frecuencia.
+C) Utilizar contraseñas seguras y cambiarlas regularmente.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 39/98
+9.- Autenticación y seguridad
+¿Qué es la autenticación y seguridad?
+La autenticación y la seguridad en el ámbito digital son conceptos fundamentales para garantizar
+que las personas, sistemas y datos en línea estén protegidos contra amenazas y accesos no
+autorizados. Estos dos conceptos son esenciales en un mundo digital interconectado, donde la
+información sensible y los servicios en línea requieren medidas de protección sólidas. A
+continuación, se exploran en detalle la autenticación y la seguridad en el ámbito digital:
+Mostrar
+—Autenticación en el ámbito digital
+¿Qué es la seguridad en el ámbito digital?
+La seguridad en el ámbito digital se reﬁere a la protección de sistemas, redes, datos y activos
+digitales contra amenazas y riesgos. Esto implica implementar medidas y prácticas para prevenir,
+detectar y responder a ataques cibernéticos y otras amenazas en línea. Algunos aspectos clave
+de la seguridad digital son:
+Cifrado
+El cifrado de datos es esencial para proteger la conﬁdencialidad de la información
+transmitida en línea, como contraseñas, datos de tarjetas de crédito y comunicaciones
+sensibles.
+Ejemplo práctico: imagine que cuando realice compra en línea, su información de tarjeta
+de crédito se cifra antes de transmitirse. Esto signiﬁca que, aunque los datos se envíen a
+través de la red, solo usted y el comercio en línea pueden descifrarlos. El cifrado
+también se aplica en las comunicaciones seguras, como las aplicaciones de mensajería,
+donde solo el remitente y el destinatario autorizados pueden descifrar los mensajes.    La autenticación se reﬁere al proceso de veriﬁcar la identidad de un usuario,
+dispositivo o sistema antes de permitir el acceso a recursos digitales o información
+sensible. En el contexto digital, la autenticación es fundamental para garantizar que
+solo las personas autorizadas tengan acceso a cuentas, datos o servicios en línea.
+Algunos aspectos clave de la autenticación digital son:
+‒Factores de autenticación
+‒Autenticación de dos factores (2FA) y multifactor (MFA)
+‒Reglas de acceso
+‒Registros de actividad31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 40/98
+Esto garantiza que sus datos personales estén protegidos contra posibles amenazas
+cibernéticas mientras navegas o realizas transacciones en línea.
+Firewalls
+Los ﬁrewalls actúan como barreras para proteger las redes y sistemas de accesos no
+autorizados y ataques cibernéticos.
+Ejemplo práctico: imagine que tiene una empresa con una red de computadoras
+conectadas a Internet. Para proteger su red y los datos conﬁdenciales de los
+ciberataques, implementa un ﬁrewall. Este ﬁrewall actúa como una barrera de seguridad
+que ﬁltra el tráﬁco de Internet entrante y saliente. Si un empleado intenta acceder a un
+sitio web malicioso o si un atacante intenta ingresar a su red, el ﬁrewall lo detecta y
+bloquea el acceso. Es como tener un guardia de seguridad digital que asegura que solo
+las comunicaciones seguras y conﬁables pasen, protegiendo sus sistemas y datos. Este
+ejemplo ilustra la función esencial de los ﬁrewalls en el ámbito digital para mantener la
+seguridad en línea.
+ 
+Antivirus
+Un antivirus es un software diseñado para detectar, prevenir y eliminar amenazas
+informáticas, como virus, malware y spyware, protegiendo las computadoras y
+dispositivos contra ataques y pérdida de datos.
+¿Cuál es la relación entre autenticación y seguridad?
+La autenticación y la seguridad están estrechamente relacionadas en el ámbito digital. La
+autenticación sólida es un componente fundamental de la seguridad, ya que garantiza que solo
+las personas autorizadas tengan acceso a sistemas y datos. Además, la seguridad de los31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 41/98
+1. La  en el ámbito digital se reﬁere al proceso de veriﬁcar la
+ de un usuario, dispositivo o sistema antes de permitir el acceso a
+recursos digitales o información sensible.
+2. Las organizaciones pueden establecer  de acceso para el acceso,
+como limitar el número de intentos de inicio de sesión o bloquear el acceso
+después de varios intentos fallidos.
+3. La  en el ámbito digital se reﬁere a la protección de sistemas,
+redes, datos y activos digitales contra  y riesgos.
+Averiguar la puntuación Mostrar/Eliminar las respuestassistemas digitales protege la información de acceso no autorizado y amenazas. La combinación
+de una sólida autenticación con prácticas de seguridad adecuadas es esencial para proteger la
+integridad y la conﬁdencialidad de los activos digitales.
+En resumen, la autenticación y la seguridad en el ámbito digital son dos conceptos
+fundamentales para proteger la identidad y la información de las personas y para salvaguardar
+los sistemas y datos en línea. La autenticación se centra en veriﬁcar la identidad de los usuarios,
+mientras que la seguridad aborda la protección contra amenazas cibernéticas y riesgos. Ambos
+conceptos son esenciales en un mundo digital cada vez más interconectado.
+Autoevaluación
+Rellena los espacios en blanco31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 42/98
+10.- Gestión de la reputación en línea
+¿Qué es la gestión de la reputación en línea?
+La gestión de la reputación en línea, también conocida como gestión de la reputación digital o
+gestión de la reputación en Internet, se reﬁere al proceso de supervisar, inﬂuir y controlar la
+percepción pública de una persona, empresa, marca o entidad en el entorno digital. Esta gestión
+se centra en gestionar cómo una entidad es vista en línea y cómo sus acciones, contenido y
+comentarios inﬂuyen en su imagen y reputación en el mundo digital. La gestión de la reputación
+en línea es esencial en un entorno en el que la información se propaga rápidamente a través de
+Internet y las redes sociales, y donde la percepción pública puede afectar signiﬁcativamente a
+individuos y organizaciones. A continuación, se exploran en detalle los aspectos clave de la
+gestión de la reputación en línea:
+La gestión de la reputación en línea comienza con la supervisión constante de lo que se
+dice y se publica sobre una entidad en Internet. Esto implica rastrear las redes sociales,
+sitios de revisión, foros, blogs y cualquier otro lugar en línea donde las personas puedan
+hablar sobre la entidad. Herramientas de monitorización y alertas ayudan a seguir estas
+conversaciones.
+Ejemplo práctico: imagínese que una empresa puede utilizar software de supervisión
+para rastrear el tráﬁco en su red y detectar actividades sospechosas o posibles
+amenazas cibernéticas. Los padres también pueden aplicar la supervisión constante al
+controlar las actividades en línea de sus hijos para garantizar un entorno seguro en
+Internet. Esta práctica se aplica en servidores web, donde se supervisan
+constantemente las métricas de rendimiento y la disponibilidad del sitio para garantizar
+un funcionamiento sin problemas. La supervisión constante es esencial para prevenir
+problemas y responder de manera proactiva a cualquier incidente en el mundo digital.
+Además de supervisar, la gestión de la reputación en línea implica tomar medidas
+proactivas para promover una imagen positiva. Esto puede incluir la creación y
+promoción de contenido positivo, como publicaciones en redes sociales, blogs o
+testimonios. También puede implicar responder a críticas y comentarios negativos de
+manera profesional y constructiva. 1. Supervisión constante
+2. Gestión proactiva
+3. SEO positivo31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 43/98
+El SEO (Search Engine Optimization) positivo es una estrategia que se utiliza para
+asegurarse de que los resultados de búsqueda en Internet estén llenos de contenido
+positivo sobre la entidad. Esto ayuda a que la información negativa sea menos visible y
+que la información positiva se destaque en los resultados de búsqueda.
+La construcción de una marca en línea sólida y positiva es esencial para la gestión de la
+reputación. Esto incluye la creación y promoción de una imagen de marca coherente y
+auténtica en línea.
+La gestión de la reputación en línea también implica la preparación para posibles crisis
+de reputación. Esto incluye la elaboración de planes de gestión de crisis y la respuesta
+rápida y efectiva a situaciones negativas que puedan afectar la imagen de la entidad.
+Ejemplo práctico: Si una empresa enfrenta una crisis de relaciones públicas debido a
+una controversia en las redes sociales, debe actuar rápidamente. Pueden emitir una
+disculpa pública, responder a las preocupaciones de los clientes y colaborar con las
+partes interesadas para solucionar el problema. Además, es fundamental mantener una
+comunicación transparente durante la crisis y utilizar estrategias de relaciones públicas
+en línea para mitigar el impacto negativo. La gestión de crisis en el ámbito digital es
+esencial para proteger la imagen y la conﬁanza del público en un mundo interconectado.
+En algunos casos, la gestión de la reputación en línea puede incluir medidas para
+proteger la privacidad de la entidad. Esto puede implicar la eliminación de información
+personal no deseada o la solicitud de desindexación de contenido sensible de los
+motores de búsqueda.4. Construcción de marca
+5. Gestión de crisis
+6. Protección de la privacidad31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 44/98
+En el caso de las empresas, la gestión de la reputación en línea a menudo implica la
+gestión de revisiones y caliﬁcaciones en sitios de reseñas como Yelp, Google,
+TripAdvisor y otros. Fomentar y responder a las reseñas de manera adecuada es
+importante para mantener una buena imagen.
+La gestión de la reputación en línea se beneﬁcia de la transparencia y la autenticidad.
+Ser honesto, reconocer errores y mostrar una comunicación abierta contribuyen a ganar
+la conﬁanza de la audiencia en línea.
+La gestión de la reputación en línea es un proceso continuo. Lo que se dice sobre una
+entidad en Internet puede cambiar rápidamente, por lo que es importante seguir
+supervisando y ajustando las estrategias de gestión de la reputación de manera regular.
+Ejemplo práctico: una empresa puede utilizar herramientas de monitoreo en las redes
+sociales para rastrear menciones de su marca y analizar el sentimiento del público. Si
+detectan una tendencia negativa o una crisis en las redes sociales, pueden intervenir de
+inmediato para abordar el problema y proteger su reputación. También pueden utilizar el
+monitoreo web para supervisar el tráﬁco de su sitio y la interacción del usuario, lo que
+les permite ajustar su estrategia en línea en función de los datos en tiempo real. El
+monitoreo continuo es esencial para una gestión efectiva en línea.7. Gestión de revisiones y caliﬁcaciones
+8. Transparencia y autenticidad
+9. Monitoreo continuo31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 45/98
+ Verdadero  Falso
+Verdadero
+ Verdadero  Falso
+Falso
+ Verdadero  Falso
+¿Cuál es la impor tancia de la gestión de la reputación en línea?
+La gestión de la reputación en línea es importante porque la percepción pública en línea puede
+afectar la credibilidad, la conﬁanza y el éxito de una entidad. Las opiniones y comentarios en
+línea pueden inﬂuir en la toma de decisiones de las personas y en la reputación de una empresa.
+Una mala gestión de la reputación en línea puede llevar a la pérdida de clientes, ingresos y
+oportunidades.
+En resumen, la gestión de la reputación en línea es un proceso integral que implica supervisar,
+inﬂuir y controlar la percepción pública de una entidad en el entorno digital. Se basa en la
+supervisión constante, la gestión proactiva, la construcción de una marca positiva y la gestión de
+crisis cuando sea necesario. Una sólida gestión de la reputación en línea es esencial en un
+mundo digital donde la imagen y la percepción pública son críticas.
+Autoevaluación
+Señala sis es verdadero o falso.
+La gestión de la reputación en línea se centra en supervisar, inﬂuir y controlar la
+percepción pública de una entidad en el entorno digital.
+La gestión proactiva en la gestión de la reputación en línea implica responder a
+críticas y comentarios negativos de manera inapropiada.
+La gestión de la reputación en línea incluye la preparación para posibles crisis de
+reputación y la respuesta rápida a situaciones negativas.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 46/98
+Verdadero31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 47/98
+11.- Continuidad de la identidad
+¿Qué es la continuidad de la identidad?
+La continuidad de la identidad en el ámbito digital se reﬁere a la capacidad de mantener y
+preservar una identidad coherente y auténtica a lo largo del tiempo a medida que una persona,
+entidad o marca interactúa y se desenvuelve en el entorno en línea. A continuación, se exploran
+en detalle los aspectos clave de la continuidad de la identidad en el ámbito digital:
+1. Coherencia de la identidad
+La continuidad de la identidad implica que la forma en que una
+entidad se presenta en línea es coherente con su identidad fuera de
+Internet. Esto incluye mantener un lenguaje, una estética y una voz de
+marca coherentes en todas las plataformas y canales en línea, como
+sitios web, redes sociales y correos electrónicos.
+2. Evolución gradual
+Aunque la coherencia es importante, la identidad en línea también
+debe ser capaz de evolucionar gradualmente para adaptarse a
+cambios en la marca, objetivos o audiencia. Esta evolución debe
+mantener una relación con la identidad existente y no producir una
+desconexión abrupta.
+3. Gestión de múltiples canales
+La identidad en línea puede abarcar varios canales y plataformas
+digitales. La continuidad implica la gestión efectiva de estos canales
+para garantizar una experiencia uniﬁcada y coherente en todos ellos.
+Ejemplo práctico: una empresa que busca promocionar sus
+productos puede utilizar un enfoque de múltiples canales que incluye
+su sitio web, redes sociales, correo electrónico y publicidad en línea.
+La empresa debe asegurarse de que su mensaje y branding sean31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 48/98
+consistentes en todos estos canales. Esto implica la programación de
+publicaciones en las redes sociales, envío de newsletters a través del
+correo electrónico, optimización de anuncios en línea y supervisión
+del tráﬁco del sitio web para adaptarse a las necesidades del cliente.
+La gestión de múltiples canales garantiza una presencia integral en
+línea y una comunicación efectiva con la audiencia.
+4. Adhesión a valores y principios
+La continuidad de la identidad implica adherirse a los valores,
+principios y ética de la entidad. Esto es esencial para mantener la
+integridad y la autenticidad en línea.
+5. Interacción y respuesta
+La interacción con la audiencia en línea y la respuesta a comentarios,
+preguntas y retroalimentación son partes integrales de la continuidad
+de la identidad. La forma en que una entidad se relaciona con su
+audiencia puede inﬂuir en la percepción pública.
+6. Planiﬁcación estratégica
+La continuidad de la identidad no ocurre por casualidad. Requiere
+una planiﬁcación estratégica que deﬁna los objetivos, los mensajes
+clave y las tácticas para mantener una identidad constante en línea.
+31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 49/98
+¿Cuál es la impor tancia de la continuidad de la identidad en línea?
+La continuidad de la identidad en el ámbito digital es esencial por varias razones:
+Consistencia de marca: Una identidad coherente y continua en línea contribuye a una
+experiencia de marca consistente, lo que aumenta el reconocimiento y la conﬁanza de la
+audiencia.
+Credibilidad y conﬁanza: Una identidad coherente y auténtica en línea ayuda a construir
+credibilidad y conﬁanza en la audiencia. Las personas tienden a conﬁar en marcas y
+entidades que se mantienen ﬁeles a sí mismas.
+Relevancia a largo plazo: Mantener una identidad digital consistente a lo largo del
+tiempo puede ayudar a mantener la relevancia y la permanencia en el entorno en línea.
+Gestión de crisis: Una identidad coherente y bien gestionada puede ser un activo
+importante en momentos de crisis de reputación, ya que la audiencia sabe qué esperar y
+cómo la entidad responderá.
+En resumen, la continuidad de la identidad en el ámbito digital se reﬁere a la capacidad de
+mantener una identidad coherente y auténtica a lo largo del tiempo en el entorno en línea. Esto7. Adaptación a cambios
+tecnológicos
+El entorno en línea evoluciona constantemente con nuevas
+tecnologías y plataformas. La continuidad de la identidad implica la
+adaptación a estos cambios mientras se mantiene la esencia de la
+identidad.
+Ejemplo práctico: una empresa de comercio electrónico que
+experimenta un cambio en el comportamiento del consumidor podría
+adaptarse al ofrecer una aplicación móvil más amigable. También
+podrían implementar la tecnología de chatbots para brindar atención
+al cliente las 24 horas del día. Además, la empresa debe mantenerse
+al día con las actualizaciones de seguridad cibernética para proteger
+los datos del cliente. La adaptación constante a nuevas tecnologías
+garantiza que la empresa se mantenga alineada con las expectativas
+cambiantes de los consumidores y los avances tecnológicos en el
+mercado.
+8. Gestión de crisis de reputación
+La continuidad de la identidad se pone a prueba en momentos de
+crisis de reputación en línea. La forma en que se manejan estas
+situaciones puede afectar signiﬁcativamente la continuidad de la
+identidad.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 50/98
+Incorrecto
+Opción correcta
+Incorrecto
+Solución
+1. Incorrecto
+2. Opción correcta
+3. Incorrectoimplica coherencia, adaptación gradual, gestión efectiva de múltiples canales y adhesión a
+valores y principios, todo con el objetivo de construir credibilidad, conﬁanza y relevancia a largo
+plazo en el mundo digital.
+Autoevaluación
+¿Qué implica la "coherencia de la identidad" en la continuidad
+de la identidad en línea?
+A) Cambiar la identidad a menudo para mantenerla fresca.
+B) Mantener un lenguaje y una estética coherentes en todas las plataformas
+en línea.
+C) Abandonar la identidad original en línea.
+¿Por qué es impor tante la "adhesión a valores y principios" en
+la continuidad de la identidad?
+A) Porque permite cambiar los valores y principios según las tendencias en
+línea.
+B) No es importante para la continuidad de la identidad.
+C) Para mantener la integridad y autenticidad en línea.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 51/98
+Incorrecto
+Incorrecto
+Opción correcta
+Solución
+1. Incorrecto
+2. Incorrecto
+3. Opción correcta
+Opción correcta
+Incorrecto
+Incorrecto
+Solución
+1. Opción correcta¿Qué papel juega la "gestión de múltiples canales" en la
+continuidad de la identidad en línea?
+A) Implica garantizar una experiencia coherente en todos los canales y
+plataformas digitales.
+B) No tiene relevancia en la continuidad de la identidad.
+C) Signiﬁca que se debe enfocar solo en un canal en línea.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 52/98
+2. Incorrecto
+3. Incorrecto31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 53/98
+12.- Ética en el mundo digital.
+¿Qué es la ética en el mundo digital?
+La ética en el mundo digital, también conocida como ética digital o ética en línea, se reﬁere a los
+principios y valores morales que guían el comportamiento de las personas y organizaciones en el
+contexto de las tecnologías digitales y el ciberespacio. Esta rama de la ética se centra en cómo
+los individuos y las empresas deben actuar de manera responsable y ética en el mundo digital,
+considerando aspectos como la privacidad, la seguridad, la equidad, la veracidad de la
+información y la conducta en línea. La ética en el mundo digital es fundamental debido a la
+creciente inﬂuencia de la tecnología en nuestras vidas y en la sociedad en general.
+A continuación, se exploran algunos de los aspectos clave de la ética en el mundo digital:
+Privacidad y Protección de Datos
+La privacidad es un tema central en la ética digital. Implica respetar el
+derecho de las personas a controlar su información personal y cómo
+se utiliza en línea. Las organizaciones y los individuos deben recopilar,
+almacenar y utilizar datos personales de manera transparente y
+segura, obteniendo el consentimiento cuando sea necesario.
+Seguridad Cibernética
+La ética digital también se relaciona con la seguridad en línea. Las
+personas y las empresas tienen la responsabilidad ética de proteger
+sus sistemas y datos contra amenazas cibernéticas. Esto incluye la
+implementación de medidas de seguridad, la prevención de ataques
+cibernéticos y la notiﬁcación de violaciones de datos.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 54/98
+Veracidad y Desinformación
+En el entorno digital, la proliferación de desinformación y noticias
+falsas es un problema importante. La ética digital implica la difusión
+de información precisa y veriﬁcada, así como la promoción de la
+alfabetización mediática y la capacidad de los individuos para
+discernir entre información creíble y falsa.
+Ejemplo práctico: imagine a una estudiante universitaria que
+investiga para un proyecto. Encuentra información sobre un tema en
+un blog desconocido y decide utilizarla. Sin embargo, al aplicar el
+pensamiento crítico, descubre que el blog carece de fuentes
+conﬁables y tiene sesgos evidentes. Entonces veriﬁca la información
+en fuentes reconocidas y contrasta datos, revelando que el blog
+difundía desinformación. Con este ejemplo, se destaca la importancia
+de la veracidad en línea. El pensamiento crítico y la validación de la
+información son fundamentales para evitar la propagación de
+contenido engañoso y promover la conﬁabilidad en el ámbito digital.
+Comportamiento en Línea
+La ética digital también se aplica a cómo las personas se comportan
+en línea. Esto incluye no participar en el acoso cibernético, el
+discurso de odio o la difamación. Las personas deben comunicarse
+en línea de manera respetuosa y considerada.
+Equidad y Acceso
+Garantizar la equidad en el acceso a la tecnología y a los recursos
+digitales es un aspecto ético importante. La brecha digital, que se
+reﬁere a la disparidad en el acceso a la tecnología y la conectividad,
+es un tema crítico que la ética digital busca abordar.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 55/98
+Responsabilidad por el Contenido
+La ética digital también implica asumir la responsabilidad por el
+contenido que se crea y se comparte en línea. Esto incluye el respeto
+por los derechos de autor y la propiedad intelectual, así como la
+publicación de contenido legal y ético.
+Ejemplo práctico: Imaginemos a un creador de contenido en redes
+sociales. Antes de publicar, este aplica ética digital y responsabilidad.
+Investiga para garantizar que sus aﬁrmaciones sean precisas y
+veriﬁcadas. Además, evita el sensacionalismo y el discurso de odio,
+contribuyendo a un ambiente en línea más respetuoso. El también se
+asegura de respetar los derechos de autor y propiedad intelectual al
+compartir contenido original. Su compromiso con la responsabilidad
+en línea no solo protege su reputación, sino que también contribuye a
+un entorno digital ético y seguro para su audiencia. Este ejemplo
+ilustra cómo la responsabilidad por el contenido es esencial en la era
+digital.
+Transparencia y Responsabilidad
+Las empresas y organizaciones en línea deben operar de manera
+transparente y responsable. Esto implica brindar información clara
+sobre prácticas, políticas y términos de servicio, así como asumir la
+responsabilidad por cualquier conducta perjudicial en sus
+plataformas.
+Desarrollo Ético de Tecnologías
+Los profesionales y desarrolladores de tecnología tienen la
+responsabilidad ética de diseñar y crear sistemas y productos que
+sean seguros, justos y respetuosos de la privacidad. Esto incluye
+abordar sesgos algorítmicos y asegurarse de que la tecnología no
+cause daño.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 56/98
+La ética en el mundo digital es esencial para garantizar que las tecnologías se utilicen de manera
+ética y responsable, y que las personas sean tratadas con dignidad y respeto en el ciberespacio.
+A medida que nuestra sociedad continúa su dependencia de la tecnología, la ética en el mundo
+digital se convierte en un tema crítico que afecta no solo a los individuos, sino también a la
+sociedad en su conjunto.
+Participación Activa
+Ser un ciudadano digital ético implica no ser un mero espectador,
+sino un participante activo en la promoción de un entorno digital más
+ético. Esto podría incluir la denuncia de conductas inapropiadas en
+línea o la promoción de prácticas más éticas.
+Ejemplo práctico: Imagine a una ciudadana digital activa. En lugar
+de solo consumir contenido en línea, ella participa activamente. Ella
+comparte información precisa, denuncia comportamientos
+inapropiados y promueve la conciencia digital. Además, esta
+ciudadana participa en debates constructivos, fomentando la
+diversidad de opiniones. Su participación va más allá de los "me
+gusta", inspirando a otros a ser ciudadanos digitales comprometidos.
+Este ejemplo destaca cómo la participación activa en el ámbito digital
+impulsa un entorno más enriquecedor y responsable, donde cada
+usuario contribuye al diálogo y la mejora continua de la comunidad en
+línea.
+Legislación y Normativas
+La ética digital también se relaciona con el cumplimiento de las leyes
+y regulaciones relacionadas con la tecnología y el mundo digital. Las
+organizaciones y los individuos deben respetar las normativas de
+privacidad, seguridad y derechos de autor.
+31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 57/98
+1. En la ética digital, la  es un tema central que implica respetar el
+derecho de las personas a controlar su información personal y su uso en
+línea. Las organizaciones deben recopilar, almacenar y utilizar datos de
+manera transparente y segura, obteniendo el consentimiento cuando sea
+necesario.
+2. La proliferación de desinformación en el entorno digital destaca la
+importancia de la ética digital, donde la  de información precisa y
+veriﬁcada es fundamental para combatir la difusión de noticias falsas.
+3. La ética digital aborda el comportamiento en línea, instando a las personas a
+comunicarse de manera  y considerada, evitando el acoso
+cibernético, el discurso de odio y la difamación.
+Averiguar la puntuación Mostrar/Eliminar las respuestasAutoevaluación
+Rellena los espacios en blanco31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 58/98
+13.- Datos biométricos
+¿Qué son los datos biométricos?
+Los datos biométricos en el ámbito digital se reﬁeren a la información personal y única
+relacionada con características ﬁsiológicas o comportamentales de un individuo que se utiliza
+para su identiﬁcación o autenticación en sistemas electrónicos. Estos datos son distintos de las
+contraseñas o pines tradicionales, ya que están basados en características inherentes al propio
+individuo, lo que los hace particularmente seguros.
+Los datos biométricos pueden incluir una variedad de rasgos, como:
+Reconocimiento de voz
+La voz de una persona, incluyendo el tono, la entonación y otros factores, se utiliza para
+veriﬁcar la identidad. Es comúnmente utilizado en sistemas de voz asistida y
+aplicaciones de seguridad.
+Huella dactilar
+Las huellas dactilares son una de las formas más comunes de datos biométricos
+utilizados en la actualidad. Los patrones únicos en las yemas de los dedos se capturan y
+almacenan para autenticar la identidad de una persona.
+Reconocimiento facial31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 59/98
+Esta tecnología utiliza cámaras y algoritmos para analizar y comparar rasgos faciales
+únicos. El reconocimiento facial se utiliza en una variedad de aplicaciones, desde
+desbloquear teléfonos inteligentes hasta sistemas de vigilancia.
+Ejemplo práctico: El reconocimiento facial se implementa en la autenticación de
+teléfonos, como desbloquear un iPhone mediante el análisis de rasgos faciales
+exclusivos. Además, sistemas de vigilancia emplean esta tecnología para identiﬁcar
+individuos en entornos públicos, mejorando la seguridad mediante cámaras y algoritmos
+que comparan características faciales únicas.
+Reconocimiento de iris
+El patrón único del iris del ojo también se utiliza para identiﬁcar a las personas. Es
+especialmente útil en aplicaciones de alta seguridad debido a su baja probabilidad de
+falsos positivos.
+Reconocimiento de venas de la mano
+La identiﬁcación se basa en patrones de venas en la palma de la mano, que son únicos
+para cada individuo.
+Reconocimiento de ﬁrma
+La ﬁrma digital, que puede ser capturada en dispositivos táctiles o pantallas, se utiliza
+para veriﬁcar la identidad de una persona.
+31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 60/98
+Reconocimiento de marcha
+Este enfoque se basa en cómo camina una persona, lo que es único para cada
+individuo.
+Ejemplo práctico: este método se utiliza en la autenticación biométrica, permitiendo el
+acceso a instalaciones solo a aquellos cuya forma de andar coincide con los patrones
+previamente registrados.
+La implementación de datos biométricos en el ámbito digital se ha vuelto cada vez más común
+debido a su alta precisión y su capacidad para proporcionar un nivel adicional de seguridad. Se
+utilizan en una amplia gama de aplicaciones, que incluyen:
+Desbloqueo de dispositivos: Muchos dispositivos móviles y computadoras portátiles
+ahora tienen capacidades de reconocimiento facial y de huellas dactilares para
+desbloquear el dispositivo de forma segura.
+Sistemas de control de acceso: Los datos biométricos se utilizan para controlar el
+acceso a ediﬁcios, sistemas de seguridad y aplicaciones gubernamentales.
+Veriﬁcación de identidad en línea: En algunas plataformas en línea, especialmente
+aquellas relacionadas con servicios ﬁnancieros y gubernamentales, se utilizan datos
+biométricos para garantizar la autenticidad del usuario.
+Identiﬁcación en viajes y aduanas: Los datos biométricos se utilizan en muchos
+aeropuertos para agilizar los procesos de control de pasaportes y seguridad.
+Aunque los datos biométricos ofrecen una mayor seguridad y comodidad, también plantean
+preocupaciones sobre la privacidad y la seguridad. El almacenamiento seguro de estos datos y
+su protección contra el acceso no autorizado son fundamentales para garantizar su uso ético y
+efectivo. Las regulaciones y leyes de privacidad varían según el país, y es importante tener en
+cuenta estos factores al implementar sistemas biométricos.
+Pregunta Verdadero-Falso
+Los datos biométricos son información personal y única relacionada con
+características ﬁsiológicas o comportamentales de un individuo.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 61/98
+ Verdadero  Falso
+Verdadero
+ Verdadero  Falso
+Falso
+ Verdadero  Falso
+FalsoLa voz de una persona, incluyendo el tono y la entonación, se utiliza en el
+reconocimiento de iris. 
+El reconocimiento facial se utiliza solo en aplicaciones de desbloqueo de teléfonos
+inteligentes.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 62/98
+14.- Tipologías de identidad digital y el
+sector productivo.
+¿Cuáles son las tipologías de identidad digital?
+En el ámbito digital, las identidades no son un concepto unidimensional; más bien, existen
+diversas tipologías de identidad digital, cada una con sus propias características y ﬁnalidades.
+Estas tipologías abordan cómo las personas y entidades se presentan y se relacionan en línea.
+Algunas de las tipologías más destacadas incluyen:
+Identidad personal
+Esta es la representación en línea de una persona en su capacidad individual. Incluye
+información personal como nombre, edad, intereses y conexiones sociales. Las redes
+sociales personales, blogs y sitios web personales suelen ser vehículos para la identidad
+personal en línea.
+Identidad profesional
+La identidad profesional se centra en la imagen de una persona en relación con su
+carrera o campo de especialización. Perﬁles en plataformas profesionales como
+LinkedIn, blogs profesionales y portafolios en línea son ejemplos de identidades
+profesionales.
+Identidad empresarial o corporativa
+Las organizaciones y empresas también tienen identidades digitales. Esto incluye la
+presencia en línea de una empresa, su sitio web, redes sociales, comunicaciones de
+marca y contenido relacionado con sus productos o servicios.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 63/98
+Ejemplo práctico: una empresa utiliza plataformas digitales para compartir contenido
+sobre sus productos, interactuar con clientes y establecer una presencia coherente que
+reﬂeje sus valores y misión.
+Identidad anónima o seudónima
+Algunas personas optan por mantener una identidad anónima o utilizar un seudónimo
+en línea para preservar su privacidad. Esto puede ser común en foros de discusión o en
+comunidades donde la privacidad es una preocupación.
+Identidad social
+La identidad social se centra en cómo una persona se presenta en su vida social en
+línea, lo que incluye interacciones en redes sociales, fotos, eventos y actividades
+relacionadas con amigos y familiares.
+Ejemplo práctico: una persona comparte fotos y actualizaciones en redes sociales,
+participa en eventos en línea y se conecta con amigos y familiares, construyendo así una
+representación digital que reﬂeja su vida y personalidad.
+Identidad transitoria
+Algunas identidades digitales son temporales y se crean para propósitos especíﬁcos,
+como la participación en un evento o la realización de una compra en línea. Estas
+identidades transitorias a menudo se eliminan o dejan de utilizarse una vez que se
+completa su función.
+Identidad académica
+Los estudiantes y profesores pueden tener identidades digitales especíﬁcas para su vida
+académica en línea. Esto puede incluir perﬁles en sistemas de gestión del aprendizaje,
+foros educativos y redes académicas.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 64/98
+Identidad de comunidad
+Algunas personas se identiﬁcan principalmente con una comunidad en línea especíﬁca,
+como una comunidad de videojuegos, una comunidad de aﬁcionados a la música o una
+comunidad de entusiastas de la tecnología. La interacción en estas comunidades forma
+una parte importante de su identidad digital.
+¿Qué es el sector productivo en el ámbito digital?
+El sector productivo en el ámbito digital se reﬁere a la producción y comercialización de bienes y
+servicios relacionados con la tecnología y el mundo en línea. Este sector ha experimentado un
+crecimiento signiﬁcativo en las últimas décadas y engloba diversas áreas. Algunas de las áreas
+más destacadas del sector productivo en el ámbito digital incluyen:
+Este es uno de los componentes más fundamentales del sector digital. Incluye la
+producción y mantenimiento de hardware y software, servicios de nube, desarrollo de
+aplicaciones y seguridad cibernética. Empresas en este sector proporcionan tecnología
+y soluciones para individuos, empresas y organizaciones.
+El comercio electrónico se reﬁere a la compra y venta de productos y servicios en línea.
+Empresas como Amazon, eBay y empresas minoristas en línea han revolucionado la
+forma en que las personas compran y venden productos.Tecnología de la información (TI):
+Comercio electrónico:31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 65/98
+La publicidad en línea es un componente crucial del sector digital. Incluye la publicidad
+en motores de búsqueda, redes sociales, sitios web y aplicaciones móviles. Las
+empresas utilizan la publicidad en línea para llegar a sus audiencias objetivo.
+Ejemplo práctico:  una empresa de moda puede utilizar anuncios en redes sociales
+para promocionar sus productos, llegando de manera efectiva a su público objetivo y
+generando interés y ventas.
+La producción y distribución de contenido digital, como música, películas, libros
+electrónicos y juegos, es una parte importante del sector digital. Plataformas como
+Netﬂix, Spotify y Amazon Kindle han transformado la forma en que consumimos
+contenido.
+Las redes sociales son una parte signiﬁcativa del sector digital. Plataformas como
+Facebook, Twitter, Instagram y LinkedIn han dado lugar a nuevas oportunidades en
+publicidad, marketing y comunicación.
+Publicidad en línea:
+Contenido digital:
+Redes sociales:
+Telecomunicaciones:31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 66/98
+Las empresas de telecomunicaciones proporcionan servicios de conectividad, como
+telefonía móvil, Internet de banda ancha y televisión por cable. La expansión de las
+redes 4G y 5G ha llevado a una mayor conectividad y comunicación en línea.
+La educación en línea ha crecido enormemente con la disponibilidad de cursos y
+programas en línea. Plataformas como Coursera, edX y Khan Academy ofrecen
+oportunidades de aprendizaje a nivel mundial.
+La tecnología ha transformado el sector ﬁnanciero con la aparición de servicios de pago
+en línea, ﬁntech, banca en línea y criptomonedas.
+Ejemplo práctico: una persona puede utilizar una aplicación de pago en línea para
+realizar transacciones rápidas y seguras, gestionar su cuenta bancaria a través de una
+plataforma en línea, o invertir en criptomonedas para diversiﬁcar su cartera ﬁnanciera.
+El sector productivo en el ámbito digital ha transformado la economía y la forma en que vivimos,
+trabajamos y nos relacionamos en la sociedad. Las oportunidades en este sector siguen
+expandiéndose a medida que la tecnología avanza y se desarrolla.Educación en línea:
+Servicios ﬁnancieros en línea:
+Pregunta de Elección Múltiple31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 67/98
+Incorrecto
+Opción correcta
+Incorrecto
+Solución
+1. Incorrecto
+2. Opción correcta
+3. Incorrecto
+Incorrecto
+Incorrecto
+Opción correcta¿Cuál de las siguientes no es una tipología de identidad digital
+mencionada en el texto?
+A) Identidad personal
+B) Identidad planetaria
+C) Identidad social
+¿Cuándo se utiliza una identidad transitoria?
+A) Para la vida académica.
+B) Para la vida social en línea.
+C) Para propósitos especíﬁcos y temporales.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 68/98
+Solución
+1. Incorrecto
+2. Incorrecto
+3. Opción correcta31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 69/98
+15.- Aplicaciones de identidad digital;
+instalación y funcionamiento.
+¿Cuáles son las aplicaciones de identidad digital?
+Las aplicaciones de identidad digital son herramientas y sistemas que permiten a las personas y
+organizaciones gestionar y utilizar su identidad en línea. Estas aplicaciones son fundamentales
+en un mundo cada vez más digitalizado, donde la identidad en línea desempeña un papel
+esencial en la autenticación, la privacidad y la seguridad en línea. A continuación, se exploran
+algunas aplicaciones de identidad digital y cómo funcionan:
+Gestores de contraseñas
+Estas aplicaciones permiten a los usuarios almacenar de forma
+segura sus contraseñas para diversas cuentas en línea. También
+generan contraseñas seguras y las completan automáticamente en
+los campos de inicio de sesión. Algunos ejemplos populares incluyen
+LastPass, 1Password y Dashlane. Funcionan cifrando y protegiendo
+las contraseñas con una contraseña maestra.
+Autenticación de dos factores
+(2FA)
+Las aplicaciones de autenticación de dos factores, como Google
+Authenticator o Authy, generan códigos únicos que los usuarios
+deben introducir junto con su contraseña para acceder a cuentas en
+línea. Esto proporciona una capa adicional de seguridad, ya que
+incluso si alguien roba la contraseña, aún necesitaría el código de
+autenticación.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 70/98
+Plataformas de identidad única
+(Single Sign-On, SSO)
+Estas aplicaciones permiten a los usuarios iniciar sesión en múltiples
+servicios y aplicaciones con una sola identiﬁcación. Ejemplos incluyen
+Okta y OneLogin. Funcionan autenticando a los usuarios una vez y
+luego proporcionando acceso sin necesidad de múltiples inicios de
+sesión.
+Ejemplo práctico: imagine que utilizas una plataforma de identidad
+única como Okta. Con una única autenticación, puedes acceder a
+diversos servicios y aplicaciones, desde el correo electrónico hasta
+plataformas de colaboración, sin la molestia de iniciar sesión
+repetidamente. Esto simpliﬁca el proceso y mejora la seguridad al
+eliminar múltiples contraseñas.
+Aplicaciones de autenticación
+biométrica
+Con la proliferación de dispositivos móviles con sensores
+biométricos, como huellas dactilares y reconocimiento facial, las
+aplicaciones de autenticación biométrica permiten a los usuarios
+acceder a dispositivos y aplicaciones mediante su identidad física.
+Estas aplicaciones utilizan características únicas del usuario, como la
+huella digital o el rostro, para conﬁrmar la identidad.
+Wallets de identidad digital
+Estas aplicaciones permiten a los usuarios almacenar su identidad
+digital en un formato seguro. Pueden contener información personal,31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 71/98
+¿Cómo es la Instalación y funcionamiento?
+La instalación y el funcionamiento de las aplicaciones de identidad digital varían según el tipo de
+aplicación. Sin embargo, a grandes rasgos, el proceso de instalación y uso puede describirse de
+la siguiente manera:
+Mostrar
+—Instalación
+—Funcionamiento
+En resumen, las aplicaciones de identidad digital desempeñan un papel crucial en la gestión de
+la identidad en línea y la seguridad digital. Facilitan la autenticación, protegen la privacidad y
+ayudan a los usuarios a mantener el control sobre su identidad en el mundo digital.credenciales y certiﬁcados digitales. Las aplicaciones de billetera de
+identidad son esenciales para la autenticación y la ﬁrma electrónica.
+‒Descarga e instalación
+‒Registro o conﬁguración inicial
+‒Gestión de identidad
+‒Seguridad y privacidad
+‒Autenticación y uso
+‒Integración
+‒Mantenimiento y actualización31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 72/98
+16.- Habilidades y competencias del
+ciudadano digital: Desarrollo evolutivo y
+socioemocional en el ámbito digital.
+¿Cuales son las habilidades y competencias del ciudadano digital?
+Las habilidades y competencias del ciudadano digital son aspectos fundamentales en el
+desarrollo evolutivo y socioemocional en el ámbito digital. Estas habilidades se reﬁeren a la
+capacidad de las personas para utilizar, interactuar y participar de manera efectiva y ética en el
+entorno digital. A medida que la tecnología y el mundo digital se vuelven cada vez más
+presentes en la vida de las personas, el desarrollo de estas habilidades se convierte en una parte
+importante de la educación y el crecimiento personal.
+Mostrar
+—¿Cuál es el desarrollo evolutivo?
+¿Qué es el desarrollo socioemocional ?
+A medida que las interacciones en línea pueden carecer de las señales emocionales de
+la comunicación cara a cara, el desarrollo socioemocional en el ámbito digital implica la
+comprensión y gestión de las emociones en línea. Los individuos deben aprender a lidiar
+con el ciberacoso, la presión de grupo y el manejo de conﬂictos en línea de manera
+saludable.‒Infancia
+‒Niñez
+‒Adolescencia
+‒Adultez
+Inteligencia emocional digital31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 73/98
+El desarrollo de la empatía en línea es esencial para fomentar relaciones saludables en el
+entorno digital. Los ciudadanos digitales deben aprender a ponerse en el lugar de los
+demás, comprender diferentes perspectivas y ser respetuosos en sus interacciones en
+línea.
+La resiliencia digital implica la capacidad de recuperarse de experiencias negativas en
+línea, como el acoso cibernético o la exposición a contenido inapropiado. Las personas
+deben desarrollar habilidades para buscar apoyo, tomar medidas y gestionar el estrés
+relacionado con las experiencias digitales negativas.
+Ejemplo práctico: imagine a un adolescente experimentando ciberacoso. Desarrolla
+resiliencia al hablar con un adulto de conﬁanza, bloquear al agresor y denunciar la
+situación. Esta acción muestra cómo gestionar el estrés digital negativo y buscar ayuda
+para superar experiencias adversas en línea.
+En un mundo digital, las habilidades de comunicación escrita y visual son esenciales.
+Esto incluye la capacidad de redactar correos electrónicos efectivos, escribir mensajes
+en redes sociales con claridad y empatía, y comunicar de manera efectiva a través de
+herramientas de videoconferencia y otros medios digitales.
+Empatía en línea
+Resiliencia digital
+Habilidades de comunicación digital31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 74/98
+ Verdadero  Falso
+Falso
+ Verdadero  Falso
+Verdadero
+El desarrollo socioemocional también implica la capacidad crítica para evaluar la
+información en línea y evitar la propagación de noticias falsas o contenido perjudicial.
+Esto incluye el pensamiento crítico y la habilidad de cuestionar y veriﬁcar la validez de la
+información.
+En resumen, el desarrollo evolutivo y socioemocional en el ámbito digital es un proceso continuo
+a lo largo de la vida. Las habilidades y competencias del ciudadano digital son esenciales para
+navegar de manera segura y ética en el mundo digital y para mantener relaciones positivas en
+línea. La educación y la concienciación desempeñan un papel fundamental en el fomento de un
+comportamiento digital saludable y en el desarrollo de habilidades socioemocionales en el
+contexto digital.Capacidad crítica
+Verdadero-Falso
+El desarrollo evolutivo en la infancia se centra en habilidades avanzadas
+como la gestión de la seguridad en línea.
+En la adolescencia, el desarrollo digital implica la construcción de una
+identidad en línea y la comprensión de riesgos como el ciberacoso y el
+sexting.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 75/98
+ Verdadero  Falso
+FalsoEl acceso temprano a dispositivos digitales no requiere supervisión en
+cuanto al tiempo de pantalla y al contenido.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 76/98
+17.- Comunicación y colaboración.
+¿Qué es la comunicación y la colaboración?
+La comunicación y colaboración en el ámbito digital se han convertido en elementos
+fundamentales en la forma en que las personas, las empresas y las organizaciones interactúan,
+trabajan y se relacionan en la era digital. Estos dos aspectos están intrínsecamente conectados
+y tienen un impacto signiﬁcativo en la forma en que el mundo se conecta y colabora en línea. A
+continuación, se explican en detalle la comunicación y la colaboración en el contexto digital:
+¿Cómo es la comunicación?
+Comunicación Sincrónica y Asincrónica
+La comunicación en línea puede ser sincrónica, donde las personas interactúan en
+tiempo real, como en una videollamada o un chat en vivo. También puede ser
+asincrónica, como el intercambio de correos electrónicos o mensajes en redes sociales,
+donde no es necesario que todas las partes estén en línea al mismo tiempo. Ambos
+tipos de comunicación desempeñan un papel importante en la vida digital.
+Ejemplo práctico: un ejemplo sincrónico es una videoconferencia donde colegas
+discuten en tiempo real. Mientras tanto, el intercambio de correos electrónicos entre
+departamentos es asincrónico, permitiendo colaboración sin requerir disponibilidad
+simultánea, demostrando la versatilidad de ambos enfoques en la comunicación
+empresarial.
+Multicanal
+La comunicación digital se beneﬁcia de múltiples canales, incluyendo correos
+electrónicos, redes sociales, mensajería instantánea, videoconferencia, foros y más. Las
+personas pueden elegir la plataforma que mejor se adapte a sus necesidades y
+preferencias para comunicarse con otros.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 77/98
+Ejemplo práctico: Una empresa utiliza correos electrónicos para comunicarse
+formalmente con clientes, redes sociales para campañas de marketing, mensajería
+instantánea para asistencia rápida y videoconferencias para reuniones. Esta
+diversiﬁcación en los canales garantiza una comunicación efectiva y adaptable a las
+preferencias de sus clientes y empleados.
+Globalización
+La comunicación en línea ha roto barreras geográﬁcas y culturales. Las personas
+pueden conectarse con otras de todo el mundo y comunicarse en diferentes idiomas.
+Esto ha llevado a la diversiﬁcación y globalización de las conversaciones y las
+colaboraciones.
+Expresión Visual y Multimedia
+La comunicación digital permite la integración de elementos visuales y multimedia, como
+imágenes, videos y gifs. Esto enriquece la forma en que las personas se expresan y se
+comprenden en línea.
+Redes Sociales:
+Las redes sociales desempeñan un papel fundamental en la comunicación digital. Las
+personas pueden compartir actualizaciones, interactuar con amigos y seguidores, unirse
+a grupos de interés y utilizar estas plataformas para la comunicación y la colaboración.
+¿Cómo es la colaboración?31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 78/98
+Trabajo en Equipo Remoto
+La colaboración digital es esencial en un entorno laboral en el que las
+personas pueden trabajar desde diferentes ubicaciones geográﬁcas.
+Las herramientas de colaboración en línea, como los documentos
+compartidos y las aplicaciones de gestión de proyectos, permiten a
+los equipos trabajar juntos de manera efectiva.
+Coedición de Documentos
+Plataformas como Google Docs y Microsoft Ofﬁce en línea permiten
+la coedición de documentos en tiempo real. Varias personas pueden
+colaborar en un documento, realizar comentarios y realizar ediciones
+simultáneas.
+Ejemplo práctico: un equipo de trabajo colabora en un informe
+usando Google Docs. Cada miembro puede editar simultáneamente
+el documento, dejando comentarios y realizando cambios en tiempo
+real. Esta función facilita la colaboración y agiliza la producción de
+informes sin conﬂictos de versiones.
+Proyectos Colaborativos
+La colaboración en línea se extiende a la creación de proyectos y
+contenido en conjunto. Las personas pueden colaborar en el
+desarrollo de sitios web, la producción de contenido multimedia, la
+programación de software y más.
+31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 79/98
+¿Cuales son los retetos en la comunicación y colaboración?
+1. Privacidad y Seguridad: La seguridad y la protección de datos son preocupaciones
+críticas en la comunicación y colaboración digital. Las personas deben proteger su
+información personal y empresarial contra amenazas cibernéticas.
+Aprendizaje en Línea
+La educación en línea depende en gran medida de la colaboración en
+entornos virtuales de aprendizaje. Los estudiantes trabajan juntos en
+proyectos, participan en discusiones y colaboran en actividades de
+aprendizaje.
+Colaboración Empresarial
+En el ámbito empresarial, la colaboración digital se extiende a la
+interacción con clientes, proveedores y socios comerciales. Las
+empresas utilizan plataformas de colaboración para mejorar la
+eﬁciencia y el ﬂujo de trabajo.
+Ejemplo práctico: una empresa de software utiliza una plataforma
+de gestión de proyectos para colaborar con desarrolladores externos
+en la creación de una nueva aplicación. Comparten archivos, asignan
+tareas y mantienen una comunicación ﬂuida, optimizando el proceso
+de desarrollo y asegurando la entrega puntual del proyecto.
+Herramientas de Colaboración
+Existen numerosas herramientas de colaboración en línea, como
+Slack, Trello, Zoom, Asana, y muchas más. Estas aplicaciones
+facilitan la organización, comunicación y colaboración efectiva.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 80/98
+Incorrecto
+Opción correcta
+Incorrecto
+Solución
+1. Incorrecto
+2. Opción correcta
+3. Incorrecto2. Sobrecarga de Comunicación: La facilidad de la comunicación en línea puede llevar a la
+sobrecarga de información. Gestionar eﬁcazmente la avalancha de mensajes y
+notiﬁcaciones es un desafío.
+3. Diferencias Culturales: En un mundo globalizado, la comunicación y colaboración
+pueden involucrar a personas de diferentes culturas. Comprender y respetar las diferencias
+culturales es esencial para evitar malentendidos.
+En resumen, la comunicación y colaboración en el ámbito digital han transformado la forma en
+que las personas se conectan y trabajan en todo el mundo. Estas habilidades son esenciales en
+una sociedad cada vez más digital y tienen un impacto signiﬁcativo en la vida laboral, educativa y
+social de las personas. La elección de las herramientas y plataformas adecuadas, junto con la
+gestión de la privacidad y la seguridad, son componentes clave para el éxito en la comunicación
+y colaboración en línea.
+Pregunta de Elección Múltiple
+¿Cuáles son algunos retos en la comunicación y colaboración digital
+mencionados en el texto?
+A) Privacidad y Seguridad
+B) Todas las anteriores
+C) Diferencias Culturales31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 81/98
+Opción correcta
+Incorrecto
+Incorrecto
+Solución
+1. Opción correcta
+2. Incorrecto
+3. Incorrecto
+Incorrecto
+Incorrecto
+Opción correcta¿En qué consiste la comunicación sincrónica?
+A) Videollamadas y chat en vivo
+B) Comunicación en redes sociales
+C) Intercambio de correos electrónicos
+¿Qué aspecto se destaca como esencial en la colaboración empresarial
+en el ámbito digital?
+A) Proyectos Colaborativos
+B) Colaboración en Entornos Virtuales de Aprendizaje
+C) Interacción con Clientes y Socios31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 82/98
+Solución
+1. Incorrecto
+2. Incorrecto
+3. Opción correcta31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 83/98
+18.- Búsqueda de información - Fiabilidad
+de las fuentes. Los engaños en la web –
+Bulos; Derechos de autor y licencias.
+¿Cómo saber si un trabajo es original?
+Herramientas de
+detección de plagio:Utiliza herramientas en línea como Turnitin, Plagscan,
+Grammarly, PaperRater, Dupli Checker o Copyscape, entre
+otras, que comparan el texto con una amplia base de datos
+para detectar similitudes con contenido existente en Internet.
+En el siguiente vídeo puedes ver cómo funciona Turnitin.
+Referencias y citas:Veriﬁca si el trabajo contiene referencias adecuadas y citas a
+fuentes externas. Una investigación auténtica suele incluir
+referencias a trabajos previos o fuentes utilizadas.
+Análisis de contenido:Lee detenidamente el trabajo para evaluar su coherencia,
+originalidad en la presentación de ideas y estilo de escritura. La
+presencia de ideas únicas y una voz propia sugieren
+originalidad.
+¿Qué es la búsqueda de información - Fiabilidad de las fuentes?
+La búsqueda de información en línea es una habilidad fundamental en el ámbito digital. Con la
+cantidad masiva de información disponible en Internet, es importante evaluar la ﬁabilidad de las
+fuentes para asegurarse de que la información que se obtiene sea precisa y creíble.
+Evaluación de fuentes31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 84/98
+La ﬁabilidad de una fuente en línea debe evaluarse considerando su
+autoría, actualidad, relevancia y objetividad. Asegurarse de que la
+fuente provenga de una entidad o persona conﬁable y tenga
+experiencia en el tema es esencial.
+Ejemplo práctico: al investigar sobre la eﬁcacia de una vacuna, se
+consultan múltiples estudios médicos publicados en revistas
+cientíﬁcas reconocidas. Se evalúan los autores, la fecha de
+publicación y la coherencia de los resultados para garantizar la
+ﬁabilidad de la información antes de su uso.
+Veriﬁcación cruzada
+Es útil veriﬁcar la información en múltiples fuentes conﬁables antes de
+darla por válida. La consistencia en la información entre diversas
+fuentes aumenta su credibilidad.
+Escepticismo informado
+Los usuarios deben abordar la información en línea con un grado de
+escepticismo y veriﬁcar los hechos cuando sea necesario. Esto es
+particularmente relevante en un entorno donde la desinformación y
+las noticias falsas son comunes.
+Ejemplo práctico: al investigar sobre la eﬁcacia de una vacuna, se
+consultan múltiples estudios médicos publicados en revistas
+cientíﬁcas reconocidas. Se evalúan los autores, la fecha de
+publicación y la coherencia de los resultados para garantizar la
+ﬁabilidad de la información antes de su uso.
+Herramientas de veriﬁcación de
+hechos
+Existen herramientas y sitios web que se dedican a veriﬁcar la
+precisión de las noticias y la información en línea. Consultar estas
+fuentes puede ayudar a conﬁrmar la veracidad de la información.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 85/98
+¿Cómo son los engaños en la web – Bulos?
+Los bulos, también conocidos como noticias falsas o información errónea, son información falsa
+o engañosa que se difunde en línea. Los bulos pueden ser perjudiciales ya que pueden inﬂuir en
+las opiniones y acciones de las personas. Aquí hay algunas consideraciones clave:Algunas de estas herramientas y entidades son:
+1. FactCheck.org: Es un proyecto sin ﬁnes de lucro de la
+Universidad de Pensilvania que veriﬁca declaraciones hechas
+por políticos y ﬁguras públicas en los Estados Unidos.
+2. Snopes: Es uno de los sitios web más antiguos dedicados a
+desacreditar mitos, rumores y desinformación en línea.
+3. PolitiFact: Se centra en la veriﬁcación de aﬁrmaciones
+políticas, caliﬁcándolas en una escala de "Verdadero" a "Falso".
+4. The Washington Post Fact Checker: Se enfoca en la
+veriﬁcación de hechos relacionados con políticos y ﬁguras
+públicas, utilizando su propio sistema de caliﬁcación.
+5. AFP Fact Check: Es parte de la Agence France-Presse (AFP) y
+veriﬁca aﬁrmaciones y noticias virales en varios países y
+lenguajes.
+6. BBC Reality Check: La BBC veriﬁca aﬁrmaciones y hechos
+clave en noticias y debates políticos en el Reino Unido y a nivel
+internacional.
+7. Google Fact Check Explorer: Una herramienta que recopila
+veriﬁcaciones de hechos de varios veriﬁcadores y los muestra
+en los resultados de búsqueda.
+8. Full Fact: Es una organización independiente del Reino Unido
+que veriﬁca aﬁrmaciones en los medios y en el ámbito político.
+9. Chequeado: Un sitio web de veriﬁcación de hechos que se
+enfoca en noticias y políticas en América Latina.
+10. Reverse Image Search (Búsqueda inversa de imágenes):
+Herramientas como Google Images o TinEye permiten veriﬁcar
+la autenticidad de una imagen o encontrar sus fuentes
+originales.
+11. InVID.
+12. Google Académico.
+13. Factcheek.org.
+14. Maldita.es.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 86/98
+Origen de los bulos
+Los bulos a menudo se originan en sitios web no conﬁables, foros de discusión o
+plataformas de redes sociales. Algunos son creados con intenciones maliciosas,
+mientras que otros pueden ser simplemente incorrectos.
+Veriﬁcación de noticias
+Antes de compartir información en línea, es importante veriﬁcar su autenticidad. Esto
+incluye buscar la fuente original de la noticia y asegurarse de que provenga de una
+fuente conﬁable. Algunas herramientas de veriﬁcación de noticias son:
+Para imágenes:
+1. Google Reverse Image Search: Permite buscar imágenes similares en la web.
+Puedes subir una imagen o proporcionar su URL para ver dónde más ha sido
+publicada esa imagen.
+2. TinEye: Similar a Google Reverse Image Search, esta herramienta te permite
+buscar imágenes similares en la web.
+3. FotoForensics: Analiza imágenes para detectar modiﬁcaciones digitales y
+manipulaciones.
+Para videos:
+1. InVID Veriﬁcation Plugin: Una extensión para navegadores web que ayuda a
+veriﬁcar la autenticidad de videos en redes sociales.
+2. YouTube DataViewer: Permite analizar la metadata de videos de YouTube, como
+la ubicación, el equipo utilizado para subirlo, etc.
+Para documentos:
+1. Check4Spam: Se centra en veriﬁcar la autenticidad de correos electrónicos y
+noticias virales.
+2. PDF Analyzer: Herramienta en línea para analizar documentos PDF y veriﬁcar si
+han sido alterados o editados.
+Para noticias y contenido web:31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 87/98
+1. Fact-Checking Sites: Como FactCheck.org, Snopes, PolitiFact, etc. Veriﬁcan la
+veracidad de aﬁrmaciones, noticias y rumores.
+2. Media Bias/Fact Check: Un sitio web que clasiﬁca la credibilidad y el sesgo de
+varias fuentes de noticias y medios.
+3. Newsguard: Una extensión de navegador que caliﬁca la credibilidad de los sitios
+web de noticias.
+Para redes sociales:
+1. Twitter Advanced Search: Te permite buscar tweets especíﬁcos, ﬁltrar por fecha,
+usuario, ubicación, entre otros.
+2. Facebook Context Button: Proporciona información adicional sobre la página de
+una historia, incluyendo su veracidad.
+Educación en alfabetización mediática
+Fomentar la alfabetización mediática es fundamental para ayudar a las personas a
+discernir entre información precisa y falsa. Esto implica enseñar a los usuarios cómo
+evaluar la calidad de la información en línea.
+Ejemplo práctico: en un taller educativo, los estudiantes aprenden a analizar fuentes
+en línea, veriﬁcando datos de múltiples sitios y contrastando información en redes
+sociales. Discuten estrategias para identiﬁcar noticias falsas y evaluar la credibilidad de
+las fuentes, promoviendo un uso más crítico y responsable de la información en internet.
+El El 017 centraliza los servicios de atención telefónica que ofrece INCIBE relativos a
+dudas o consultas sobre ciberseguridad, privacidad, protección de datos, conﬁanza
+digital, uso seguro y responsable de Internet y de la tecnología. Disponible todos los días
+del año, en horario de 9 a 21 horas. Ejemplo: INCIBE.
+Responsabilidad compartida
+Los usuarios también tienen la responsabilidad de no contribuir a la propagación de
+bulos. Compartir información sin veriﬁcar puede exacerbar la difusión de noticias falsas.
+Ayuda en el 017.
+¿Cuáles son los derechos de autor y licencias?31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 88/98
+Los derechos de autor son un aspecto importante de la propiedad intelectual en el ámbito
+digital. A menudo se aplican a contenido como textos, imágenes, videos, música y software.
+Aquí hay conceptos clave relacionados con los derechos de autor y las licencias:
+Los derechos de autor protegen la propiedad de una obra creativa.
+Esto signiﬁca que el creador tiene derechos exclusivos sobre cómo se
+utiliza, comparte o modiﬁca esa obra. La violación de derechos de
+autor puede tener consecuencias legales.
+Las licencias Creative Commons (CC) y los derechos de autor (copyright) ofrecen
+diferentes niveles de permisos para compartir y utilizar contenido creativo. Las licencias
+Creative Commons son un conjunto de licencias ﬂexibles que permiten a los creadores
+de contenido otorgar diferentes niveles de libertad para que otros utilicen y compartan
+su trabajo. Aquí hay varios tipos de licencias Creative Commons y una descripción de lo
+que permiten:
+Tipos de licencias Creative Commons
+CC BY (Atribución):Esta licencia permite a otros distribuir, mezclar, ajustar y
+construir sobre tu trabajo, incluso con ﬁnes comerciales,
+siempre y cuando te den crédito por la creación original.
+CC BY-SA
+(Atribución-
+CompartirIgual):Similar a CC BY, pero los trabajos derivados deben
+compartirse bajo la misma licencia que el trabajo original.
+CC BY-ND
+(Atribución-
+SinDerivadas):Permite la redistribución, incluso con ﬁnes comerciales,
+pero no permite cambios en el trabajo original.
+CC BY-NC
+(Atribución-
+NoComercial):Permite a otros distribuir, mezclar, ajustar y construir
+sobre tu trabajo de forma no comercial, dándote crédito
+por la creación original.
+CC BY-NC-SA
+(Atribución-
+NoComercial-
+CompartirIgual):Similar a CC BY-NC, pero los trabajos derivados deben
+compartirse bajo la misma licencia no comercial.
+CC BY-NC-ND
+(Atribución-
+NoComercial-
+SinDerivadas):La licencia más restrictiva, solo permite que otros
+descarguen tus obras y las compartan con otros siempre
+y cuando te den crédito, pero no pueden cambiarlas de
+ninguna manera ni utilizarlas comercialmente.
+En la siguiente imagen se resumen las Licencias Creative Commons:Derechos de autor31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 89/98
+En el siguiente vídeo podemos ver una explicación de las mismas.:
+HQV6. H AY QUE VER... L AS LICENCI AS HQV6. H AY QUE VER... L AS LICENCI AS
+Los titulares de derechos de autor pueden otorgar licencias que permiten ciertos usos
+de su trabajo. Las licencias pueden variar desde permisos amplios, como licencias de
+Creative Commons, hasta acuerdos especíﬁcos.Licencias
+Uso justo31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 90/98
+En algunos lugares, las leyes permiten el uso de material con derechos de autor en
+ciertos contextos sin permiso del titular de los derechos. Esto se conoce como "uso
+justo" y generalmente se aplica a usos educativos, críticos o informativos.
+Ejemplo práctico: un profesor utiliza extractos de libros con derechos de autor en sus
+clases como ejemplos educativos, cumpliendo con las normativas de "uso justo". Esto
+permite analizar obras literarias sin infringir derechos, fomentando el aprendizaje crítico
+en el aula.
+Al utilizar contenido en línea, es importante respetar las licencias adjuntas. Esto signiﬁca
+comprender y cumplir con los términos establecidos por el creador o el titular de los
+derechos de autor.
+Algunos contenidos están en el dominio público, lo que signiﬁca que no están
+protegidos por derechos de autor y se pueden utilizar libremente.
+Cuando se utiliza contenido con licencia, se debe dar el crédito adecuado al creador
+original, de acuerdo con los términos de la licencia.Respeto a las licencias
+Contenido de dominio público
+ Reconocimiento de la autoría31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 91/98
+En resumen, en el ámbito digital, la búsqueda de información precisa y la evaluación de fuentes
+son habilidades críticas. Además, es fundamental ser consciente de los bulos y noticias falsas
+para evitar su propagación y comprender los derechos de autor y las licencias para respetar la
+propiedad intelectual en línea.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 92/98
+19.- Seguridad y privacidad en Internet:
+Privacidad y pautas de navegación segura.
+¿Qué es la seguridad y privacidad?
+La seguridad y la privacidad en Internet son dos preocupaciones fundamentales en el ámbito
+digital. A medida que más aspectos de nuestra vida cotidiana se trasladan al mundo en línea, la
+protección de nuestra información personal y la seguridad en la navegación son de suma
+importancia. A continuación, exploraré en detalle la privacidad y las pautas de navegación
+segura en el ámbito digital.
+¿Cómo es la privacidad en internet?
+La privacidad en Internet se reﬁere a la protección de la información personal de los usuarios
+mientras utilizan servicios en línea. Aquí hay aspectos clave a considerar:
+Recopilación de datos personales
+Muchos servicios en línea recopilan datos personales de los usuarios, como nombres,
+direcciones, preferencias, historiales de navegación, entre otros. Es importante
+comprender qué información se está recopilando y con qué propósito.
+Consentimiento informado
+Los usuarios deben otorgar su consentimiento informado antes de que se recopilen sus
+datos personales. Esto signiﬁca que deben saber exactamente qué información se
+recopilará y cómo se utilizará antes de proporcionarla.
+Ejemplo práctico: al registrarse en una aplicación, los usuarios reciben una descripción
+detallada de los datos recopilados y su uso. Solo después de aceptar explícitamente los
+términos, la plataforma recopila la información personal, asegurando el consentimiento
+informado del usuario.
+Políticas de privacidad31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 93/98
+Las empresas y sitios web suelen tener políticas de privacidad que describen cómo
+manejan los datos de los usuarios. Es importante revisar estas políticas para
+comprender cómo se utilizará la información.
+Seguridad de datos
+Los datos personales deben estar protegidos contra el acceso no autorizado. Las
+empresas deben implementar medidas de seguridad, como el cifrado de datos, para
+evitar fugas de información.
+Derecho al olvido
+En algunos lugares, existe el "derecho al olvido", que permite a las personas solicitar la
+eliminación de sus datos personales cuando ya no sean necesarios.
+¿Cuáles son las pautas de una navegación segura?
+La navegación segura implica tomar medidas para protegerse mientras se utiliza Internet. Aquí
+están algunas pautas para navegar de manera más segura:
+Mantén el software actualizado
+Asegúrate de que tu sistema operativo, navegadores web y programas estén siempre
+actualizados. Las actualizaciones suelen incluir correcciones de seguridad.
+Utiliza contraseñas seguras
+Crea contraseñas fuertes que incluyan letras mayúsculas y minúsculas, números y
+caracteres especiales. No uses la misma contraseña para múltiples servicios.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 94/98
+Autenticación de dos factores (2FA)
+Habilita la autenticación de dos factores siempre que sea posible. Esto añade una capa
+adicional de seguridad.
+Evita sitios web no seguros
+Asegúrate de que los sitios web que visitas utilicen conexiones seguras (https:// en lugar
+de http://). Evita hacer clic en enlaces sospechosos.
+Software antivirus y antimalware
+Instala un buen software antivirus y antimalware en tu dispositivo y manténlo
+actualizado.
+Sospecha de correos electrónicos
+sospechosos
+No hagas clic en enlaces o descargues archivos adjuntos de correos electrónicos de
+remitentes desconocidos o sospechosos.
+Conﬁgura cortafuegos
+Conﬁgura un cortafuegos en tu dispositivo o router para proteger tu red.
+Usa una VPN
+Una red privada virtual (VPN) oculta tu dirección IP y cifra tu tráﬁco web, lo que aumenta
+tu privacidad en línea.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 95/98
+Protege tu información personal
+No compartas información personal o ﬁnanciera en sitios web no seguros o con
+desconocidos en línea.
+Educación en seguridad en línea
+Aprende sobre las últimas amenazas en línea y mantente informado sobre las mejores
+prácticas de seguridad.
+En resumen, la privacidad y la seguridad en Internet son aspectos esenciales del mundo digital.
+Los usuarios deben estar conscientes de la información que comparten y tomar medidas para
+navegar de manera segura, protegiendo su privacidad y sus datos personales. La educación y la
+conciencia son clave para mantenerse seguros en línea.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 96/98
+20.- Riesgos de un uso inadecuado y
+amenazas en la red.
+Mostrar
+—¿Cuáles son los riesgos de un uso inadecuado y amenazas en
+la red?
+Es importante destacar que estos riesgos y amenazas pueden afectar a individuos, empresas y
+organizaciones por igual. Para protegerse, las personas deben ser conscientes de estos peligros
+y tomar medidas proactivas para mantener su seguridad en línea. Esto incluye mantener el
+software actualizado, utilizar contraseñas seguras, ser cauteloso con los correos electrónicos y
+enlaces sospechosos, y educarse sobre las amenazas cibernéticas. Las empresas y
+organizaciones también deben implementar medidas de seguridad cibernética sólidas y políticas
+de privacidad efectivas para proteger la información de sus clientes y empleados.El ámbito digital, al igual que el mundo físico, no está exento de riesgos y amenazas.
+Un uso inadecuado de la tecnología y la navegación en línea puede exponer a las
+personas y organizaciones a una serie de peligros. A continuación, se describen
+algunos de los riesgos y amenazas más comunes en el ámbito digital:
+‒Malware y virus informáticos
+‒Phishing
+‒Ransomware
+‒Ciberacoso y acoso en línea
+‒Robo de identidad
+‒Violación de la privacidad
+‒Páginas web y aplicaciones falsas
+‒Robo de datos y brechas de seguridad
+‒Sexting y exposición no deseada
+‒Amenazas cibernéticas a empresas
+‒Engaños y estafas en línea
+‒Suplantación de identidad en redes sociales31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 97/98
+Licencia: licencia propietaria intelectual
+Módulo Optativo JCCM 80 horas.31/7/25, 7:51 Identiﬁcación electrónica. Módulo Optativo JCCM 80 horas.
+localhost:51235/temp_print_dirs/eXeTempPrintDir_JVw1Tr/CID02_Contenidos_JCCM/ 98/98
