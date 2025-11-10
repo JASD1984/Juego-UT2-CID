@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arcade UT2 · Identificación electrónica</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Unidad 2 · CID · Identificación electrónica</p>
+        <h1>Arcade de identidades: 7 misiones para dominar tu huella digital</h1>
+        <p>
+          Todo lo que ves aquí nace de los apuntes «Identificación electrónica. Módulo
+          optativo JCCM (80 h)». Explora cada misión para practicar huella digital,
+          actividades online, identidades, biometría, autenticación, privacidad y gestión de
+          amenazas reales como phishing o ransomware.
+        </p>
+      </div>
+      <section class="score-panel">
+        <p class="score-label">Misiones completadas</p>
+        <p class="score-value" data-score>0 / 7</p>
+        <p class="score-hint">Consigue verde en todas las tarjetas de cada misión para sumar.</p>
+      </section>
+    </header>
+    <section class="soundtrack">
+      <div class="soundtrack-copy">
+        <p class="eyebrow">Zona de enfoque</p>
+        <h2>Playlist cyber didáctica</h2>
+        <p>
+          Tres pistas synthwave/lofi descargadas y embebidas localmente para acompañar las misiones.
+          Usa los botones para activar una a la vez y mantener la concentración.
+        </p>
+      </div>
+      <div class="soundtrack-tracks">
+        <article class="track-card" data-track="reset">
+          <div>
+            <h3>Midtempo Cyberpunk | Reset · Alex-Productions</h3>
+            <p>Ritmo synthwave firme para activar la mente en los laboratorios de autenticación.</p>
+            <p class="soundtrack-credit">
+              CC BY 3.0 ·
+              <a href="https://freemusicarchive.org/music/alex-productions/cyberattack/midtempo-cyberpunk-reset/" target="_blank" rel="noreferrer">FMA</a>
+            </p>
+          </div>
+          <audio
+            controls
+            preload="none"
+            src="assets/music/reset-fma.mp3"
+            controlslist="nodownload noplaybackrate"
+          ></audio>
+        </article>
+
+        <article class="track-card" data-track="kinetics">
+          <div>
+            <h3>Electro Cyberpunk | Fight · Alex-Productions</h3>
+            <p>Golpes electrónicos cortos para las misiones de reputación y respuesta rápida.</p>
+            <p class="soundtrack-credit">
+              CC BY 3.0 ·
+              <a href="https://freemusicarchive.org/music/alex-productions/single/electro-cyberpunk-fight/" target="_blank" rel="noreferrer">FMA</a>
+            </p>
+          </div>
+          <audio
+            controls
+            preload="none"
+            src="assets/music/fight-fma.mp3"
+            controlslist="nodownload noplaybackrate"
+          ></audio>
+        </article>
+
+        <article class="track-card" data-track="eastridge">
+          <div>
+            <h3>Echo · Elysium Sound</h3>
+            <p>Synthwave dreamwave suave para repasar privacidad, riesgos y planes de mejora.</p>
+            <p class="soundtrack-credit">
+              CC BY 3.0 ·
+              <a href="https://freemusicarchive.org/music/elysium-sound/echo-synthwave-cyberpunk-dreamwave/" target="_blank" rel="noreferrer">FMA</a>
+            </p>
+          </div>
+          <audio
+            controls
+            preload="none"
+            src="assets/music/echo-elysium.mp3"
+            controlslist="nodownload noplaybackrate"
+          ></audio>
+        </article>
+      </div>
+    </section>
+
+    <main class="games-grid">
+      <section class="game-card" id="game-footprint">
+        <span class="game-badge">Misión 1</span>
+        <h2>Huella digital detective</h2>
+        <p>
+          Clasifica cada acción como <strong>huella activa</strong> (la generas conscientemente: redes,
+          publicaciones, formularios) o <strong>huella pasiva</strong> (se recoge en segundo plano: cookies,
+          metadatos, registros).
+        </p>
+        <div class="card-list" id="footprint-items"></div>
+        <button class="primary" id="check-footprint">Comprobar respuestas</button>
+        <p class="game-feedback" id="footprint-feedback"></p>
+      </section>
+
+      <section class="game-card" id="game-activities">
+        <span class="game-badge">Misión 2</span>
+        <h2>Mapa de actividades en línea</h2>
+        <p>
+          Elige la categoría correcta para cada situación descrita en los apuntes: comunicación,
+          entretenimiento, educación, comercio electrónico o colaboración.
+        </p>
+        <div class="card-list" id="activity-items"></div>
+        <button class="primary" id="check-activities">Validar mapa</button>
+        <p class="game-feedback" id="activities-feedback"></p>
+      </section>
+
+      <section class="game-card" id="game-reputation">
+        <span class="game-badge">Misión 3</span>
+        <h2>Laboratorio de reputación</h2>
+        <p>
+          Reorganiza el plan para reparar una reputación digital dañada. Usa las flechas para
+          ordenar los pasos desde el primero al último tal como recomienda la unidad.
+        </p>
+        <ul class="reputation-list" id="reputation-list"></ul>
+        <button class="primary" id="check-reputation">Evaluar plan</button>
+        <p class="game-feedback" id="reputation-feedback"></p>
+      </section>
+
+      <section class="game-card" id="game-auth">
+        <span class="game-badge">Misión 4</span>
+        <h2>Laboratorio biométrico y de autenticación</h2>
+        <p>
+          Elige la solución de identificación/autenticación más segura para cada escenario.
+          Basado en las secciones de datos biométricos, tipologías de identidad y factores 2FA.
+        </p>
+        <div class="card-list" id="auth-items"></div>
+        <button class="primary" id="check-auth">Enviar decisiones</button>
+        <p class="game-feedback" id="auth-feedback"></p>
+      </section>
+
+      <section class="game-card" id="game-password">
+        <span class="game-badge">Misión 5</span>
+        <h2>Taller de contraseñas épicas</h2>
+        <p>
+          Diseña una credencial sólida siguiendo las pautas del módulo: longitud, variedad de
+          caracteres, ausencia de datos personales y activación de 2FA.
+        </p>
+        <label class="sr-only" for="password-input">Escribe una contraseña de prueba</label>
+        <input id="password-input" type="text" placeholder="Escribe aquí tu contraseña prototipo" />
+        <div class="password-gauges">
+          <div class="gauge">
+            <span>Longitud 12+</span>
+            <div class="bar" data-gauge="length"></div>
+          </div>
+          <div class="gauge">
+            <span>Variedad de caracteres</span>
+            <div class="bar" data-gauge="variety"></div>
+          </div>
+          <div class="gauge">
+            <span>Factor 2FA activado</span>
+            <div class="bar" data-gauge="2fa"></div>
+          </div>
+        </div>
+        <div class="two-fa-toggle">
+          <input type="checkbox" id="twofa-check" />
+          <label for="twofa-check">Confirmo que activaría un segundo factor (app, token o biometría)</label>
+        </div>
+        <p class="game-feedback" id="password-feedback">Escribe y activa 2FA para ver la valoración.</p>
+      </section>
+
+      <section class="game-card" id="game-phishing">
+        <span class="game-badge">Misión 6</span>
+        <h2>Escuadrón anti-phishing</h2>
+        <p>
+          Analiza cada mensaje y marca si es <strong>sospechoso</strong> o <strong>legítimo</strong> considerando pistas
+          como URL, urgencia, errores y peticiones de datos sensibles.
+        </p>
+        <div class="card-list" id="phishing-items"></div>
+        <button class="primary" id="check-phishing">Analizar mensajes</button>
+        <p class="game-feedback" id="phishing-feedback"></p>
+      </section>
+
+      <section class="game-card" id="game-risks">
+        <span class="game-badge">Misión 7</span>
+        <h2>Riesgómetro defensivo</h2>
+        <p>
+          Relaciona cada amenaza del temario (malware, ransomware, robo de identidad, brechas,
+          sexting no consentido) con la mejor contra-medida descrita en la unidad.
+        </p>
+        <div class="card-list" id="risk-items"></div>
+        <button class="primary" id="check-risks">Evaluar defensas</button>
+        <p class="game-feedback" id="risks-feedback"></p>
+      </section>
+
+      <section class="game-card" id="game-matching">
+        <span class="game-badge">Misión 8</span>
+        <h2>Conexión láser de conceptos</h2>
+        <p>
+          Une cada concepto CID con su descripción lanzando una flecha láser. Si aciertas, el haz se ilumina en verde; si fallas, la flecha se desintegra en rojo.
+          Solo puedes tener una conexión activa por concepto.
+        </p>
+        <div class="match-area">
+          <div class="match-column" id="match-left" aria-label="Conceptos"></div>
+          <svg class="match-lines" id="match-lines" aria-hidden="true">
+            <defs>
+              <marker
+                id="arrowhead"
+                markerWidth="6"
+                markerHeight="6"
+                refX="5"
+                refY="3"
+                orient="auto"
+                markerUnits="strokeWidth"
+              >
+                <path d="M0,0 L0,6 L6,3 z" fill="currentColor"></path>
+              </marker>
+            </defs>
+          </svg>
+          <div class="match-column" id="match-right" aria-label="Descripciones"></div>
+        </div>
+        <p class="game-feedback" id="matching-feedback"></p>
+      </section>
+    </main>
+
+    <footer>
+      <p class="credits">Juego creado por Julio Alberto Salto Díaz</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
